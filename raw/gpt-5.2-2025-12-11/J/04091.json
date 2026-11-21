@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnHcG0Nyw24gtlP0m1B3EJdgAoUQ",
+  "object": "chat.completion",
+  "created": 1795297896,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what happens when breath meets meaning.\n\nI’m vibration shaped by tongue, teeth, and lips—air pressed into patterns you can hear. I live in time, not on a page. I arrive, unfold, and vanish, leaving echoes in memory.\n\nI can soothe or cut. I can promise, persuade, confess, command. I can be clear as a bell or tangled as a thought. I can be a whisper, a laugh, a cry, a chant—one voice or many, braided together.\n\nI’m never just sound: I’m intent, rhythm, emphasis. I lean on pauses. I depend on listening. I change with accent, mood, and moment.\n\nSay me, and I exist.\nStop, and I’m gone.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 155,
+    "total_tokens": 192,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

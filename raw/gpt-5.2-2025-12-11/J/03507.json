@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn9FDnDjVYZmytuHurL30ClGWScl",
+  "object": "chat.completion",
+  "created": 1795297377,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: thought made audible.\n\nI take shape in breath and voice, in rhythm and pause. I travel from mouth to ear, carried by air, shaped by tongue and teeth and lips. I can be whisper or shout, lullaby or warning, joke or vow.\n\nI am transient—here, then gone—yet I linger in memory, and sometimes I return as echo, quote, or rumor. I can clarify or confuse, heal or harm, bind crowds or break trust. I am meaning threaded through sound.\n\nGive me a speaker, a listener, and a moment, and I happen.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 125,
+    "total_tokens": 162,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

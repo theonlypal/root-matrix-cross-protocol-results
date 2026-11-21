@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnOyMI0BJwM4QL6nJt8zrhP26otz",
+  "object": "chat.completion",
+  "created": 1795298352,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the shaping of breath into meaning.  \nI turn thought into sound, silence into relation, and mouths into bridges.  \nI arrive as whisper, cry, vow, joke, prayer, command.  \nI can soothe, ignite, reveal, conceal, gather, divide.  \nBefore I am written, I am air made intention.  \nIn me, names are given, promises are bound, stories survive.  \nI live between speaker and listener, but I am never fully owned by either.  \nI am fleeting, yet I leave marks deeper than stone.  \nUse me, and I become world.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 125,
+    "total_tokens": 162,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

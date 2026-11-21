@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnW5WWkdsx4lPHrmQoSjfdbHh990",
+  "object": "chat.completion",
+  "created": 1795298793,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am breath made visible, thought crossing the gap between one mind and another. I rise as murmur, command, laughter, vow. I shape air into meaning and meaning into relation. Through me, silence breaks, names are given, promises bind, stories survive. I am spoken, heard, remembered, misheard, repeated. I can soothe, wound, reveal, conceal. Before writing, I traveled in mouths; after writing, I still live in voices. I am speech.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 101,
+    "total_tokens": 138,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmgHxEvZH4p2nGBcRyqn17dmLVI0",
+  "object": "chat.completion",
+  "created": 1795295581,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I happen, then vanish.\n\nI am breath turned into meaning.\nI begin as intention,\nstrike air,\nride vibration,\nborrow your mouth and your tongue,\nand become sound.\n\nI am timing and tone.\nI can soothe, cut, seduce, teach, confess.\nI can be whisper, shout, prayer, joke, threat.\n\nI live only if I’m heard.\nI die the moment I’m done—\nunless I land in someone\nand keep speaking there.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 97,
+    "total_tokens": 134,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

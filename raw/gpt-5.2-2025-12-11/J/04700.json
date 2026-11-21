@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnR0OunodV8ZyI4uOEHXwaor5GkS",
+  "object": "chat.completion",
+  "created": 1795298478,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought made audible. I live in mouths and lungs, in pauses and emphasis, in rhythm and tone. I can soothe or scar, teach or mislead, bind strangers into “we,” or cut a person loose with a sentence.\n\nI happen in time. Once spoken, I can’t be unspoken—only answered, echoed, denied, remembered.\n\nListen: I’m there in your hesitation, in your laughter, in your whisper when the room is dark. I’m the bridge between your inner life and someone else’s.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 118,
+    "total_tokens": 155,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

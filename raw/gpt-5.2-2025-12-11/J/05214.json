@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnYK1th5JsOjsaJD4Pw4EuuS1hBs",
+  "object": "chat.completion",
+  "created": 1795298932,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought given timing.\n\nI begin as intention—an impulse in the mind—then I become motion: diaphragm, throat, tongue, teeth, lips. I break air into syllables, stitch syllables into words, and let words carry meaning through time.\n\nI live only while I’m happening. I can be repeated, recorded, mimicked—but my natural state is fleeting: vibration, then silence.\n\nI am more than content. I am tone, pace, emphasis, hesitation. I can comfort without facts, wound without force, persuade without proof. I can clarify, confuse, reveal, conceal.\n\nI need a listener. Without one, I’m rehearsal.\n\nAsk, and I will become.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 151,
+    "total_tokens": 188,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

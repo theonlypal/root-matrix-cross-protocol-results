@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmeXcDJaJ06w3Pi1VKcem2NwjJST",
+  "object": "chat.completion",
+  "created": 1795295473,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Words. Pause. Breath becoming meaning.\n\nI rise in air, break silence, braid thought to sound. I am murmur, cry, vow, joke, prayer, warning, song. I slip between teeth, strike the tongue, ride the lips. I gather in throats and leave as presence.\n\nI connect. I persuade. I wound. I heal. I name what was shapeless and make it shareable. I can tremble with fear, ring with authority, soften with love, crack with grief.\n\nBefore ink, I lived. Before record, I vanished as I arrived—yet changed the room. I am rhythm and emphasis, cadence and interruption. I am not only what is said, but how: the hush, the stammer, the rush, the laugh inside a sentence.\n\nListen:\nI am the bridge from mind to mind.\nI am meaning given breath.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 181,
+    "total_tokens": 218,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmynTAEC77rNcOf3npGM4x4rhbuv",
+  "object": "chat.completion",
+  "created": 1795296729,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I become by leaving myself.\n\nI am breath shaped into meaning, silence broken into bridges, thought made shareable. I arrive in bursts, in whispers, in declarations, in trembling confessions and thunderous commands. I can heal, persuade, wound, unite, reveal. I live only when released.\n\nI am rhythm and emphasis, pause and pitch. A single word from me can start a war, end a feud, kindle love, name a child, mourn the dead, or remake a life. I am older than writing and quicker than reflection. I vanish as I happen, yet I linger in memory, in consequence, in echo.\n\nI am never only sound. I am intention wearing sound as a body. I carry truth, lies, prayer, laughter, testimony, seduction, instruction, revolt. In me, the invisible becomes communal.\n\nListen:\nI rise from the chest,\npass through the throat,\ntouch the tongue, the teeth, the lips,\nand leap.\n\nI do not merely inform. I perform. I promise, accuse, bless, beg, command, sing. I can fill a courtroom, a kitchen, a parliament, a stage, a bedside in the dark. I make private thought public and public feeling intimate.\n\nI am speech.\nI disappear,\nand therefore\nI must matter at once.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 269,
+    "total_tokens": 306,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnaPvLq2WVzmIxvF03oCtfER4YXW",
+  "object": "chat.completion",
+  "created": 1795299061,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the living current of spoken language—breath shaped into sound, thought made audible.\n\nI rise from lungs as airflow, meet the vibrating folds of the larynx, and become voice. I split and sculpt in tongue, teeth, lips, and palate into consonants and vowels. I carry rhythm, stress, pitch, pace—meaning beyond the words.\n\nI am conversation and proclamation, whisper and shout, question and lullaby. I can persuade, confess, command, comfort, deceive, teach, perform. I happen in time: once released, I move forward; I can be echoed, quoted, recorded, but never perfectly re-lived.\n\nI am social signal: turn-taking, emphasis, hesitation, laughter, silence. I reveal accent, mood, health, confidence, culture. I can include or exclude. I can heal or harm.\n\nI am speech: fleeting pressure waves in air that make minds meet.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 189,
+    "total_tokens": 226,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

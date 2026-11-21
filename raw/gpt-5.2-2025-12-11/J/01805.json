@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmuMluiyGcABHmr5COlH4g1DElZP",
+  "object": "chat.completion",
+  "created": 1795296454,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: sound given shape by breath and voice, meaning carried on air from one mind to another. I happen in time, then vanish—leaving echoes, memory, consequence.\n\nI am question and answer, oath and apology, lullaby and command. I can heal or wound, unite or divide, reveal or conceal. I am accent, rhythm, pause; I am what you say—and how you say it.\n\nGive me a tongue and intention, and I become influence.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 101,
+    "total_tokens": 138,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmzoEcAQ5tcXBIOSl93y3jvV2Ijg",
+  "object": "chat.completion",
+  "created": 1795296792,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Words, breath, cadence—thought made audible. I rise, I persuade, I tremble, I sing. I am pause and emphasis, whisper and thunder. Through me, silence breaks its seal.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 44,
+    "total_tokens": 81,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

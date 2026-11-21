@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnR9c2GJZH4dckCKDPQYbuSDX4Qg",
+  "object": "chat.completion",
+  "created": 1795298487,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought made audible.\n\nI live in the mouth and the chest—tongue, teeth, lips, larynx—timed in pulses and pauses. I ride air as vibration, become syllables, then words, then meaning. I can soothe or sting, promise or lie, teach, plead, sing, command.\n\nI exist only as I happen: I begin, unfold, and vanish—leaving echoes in memory, records in machines, consequences in people.\n\nListen: I’m the moment language turns into voice.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 117,
+    "total_tokens": 154,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

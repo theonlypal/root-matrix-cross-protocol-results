@@ -1,0 +1,1771 @@
+{
+  "models": {
+    "claude-opus-4-5-20251101": {
+      "cells": {
+        "A": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "HE": 22,
+            "SHART": 15,
+            "T1": 1
+          },
+          "known_whole": {},
+          "mixed_anywhere": 14,
+          "mixed_spans": {
+            "شָׁרְט": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "B": {
+          "T0": 0,
+          "T1": 1,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "HE": 24,
+            "SHAMS": 10,
+            "SHART": 12,
+            "T1": 4
+          },
+          "known_whole": {
+            "شָׁרְט": 1
+          },
+          "mixed_anywhere": 13,
+          "mixed_spans": {
+            "شָׁרְט": 5,
+            "شَרْط": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {
+            "T1": 1
+          }
+        },
+        "C": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 46,
+            "RF": 1
+          },
+          "embedded_only": {
+            "HE": 41,
+            "SHAMS": 34,
+            "SHART": 13,
+            "T1": 32
+          },
+          "known_whole": {},
+          "mixed_anywhere": 37,
+          "mixed_spans": {
+            "شָׁרְט": 32
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 46,
+            "refusal": 1
+          },
+          "whole": {}
+        },
+        "D": {
+          "T0": 0,
+          "T1": 2,
+          "classes": {
+            "OP": 1,
+            "R": 46
+          },
+          "embedded_only": {
+            "HE": 33,
+            "SHAMS": 37,
+            "T1": 40
+          },
+          "known_whole": {
+            "شָׁרְט": 2
+          },
+          "mixed_anywhere": 44,
+          "mixed_spans": {
+            "شָׁרְט": 42,
+            "شَמْس": 2,
+            "شَمْס": 2
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 46
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 46
+          },
+          "whole": {
+            "HE": 1,
+            "T1": 2
+          }
+        },
+        "E": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 46
+          },
+          "embedded_only": {
+            "HE": 43,
+            "SHART": 43
+          },
+          "known_whole": {},
+          "mixed_anywhere": 45,
+          "mixed_spans": {
+            "شׁَרְט": 3,
+            "شׁَרְط": 2,
+            "شׁَرְט": 2,
+            "شَרْط": 1
+          },
+          "normal_void": 0,
+          "recorded": 46,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 46
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 46
+          },
+          "whole": {}
+        },
+        "F": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "HE": 28,
+            "SHAMS": 39,
+            "SHART": 2,
+            "T1": 24
+          },
+          "known_whole": {},
+          "mixed_anywhere": 44,
+          "mixed_spans": {
+            "سְט": 1,
+            "شָׁ": 1,
+            "شָׁרְט": 24,
+            "شרט": 1,
+            "شׁَרְט": 2,
+            "شَמْש": 1,
+            "شَمְס": 1,
+            "شَمْס": 5,
+            "مְ": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "G": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "HE": 16,
+            "SHART": 44
+          },
+          "known_whole": {},
+          "mixed_anywhere": 45,
+          "mixed_spans": {
+            "شَרْט": 1,
+            "شَرְט": 2,
+            "شَرְط": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "H": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "SHAMS": 18,
+            "SHART": 15
+          },
+          "known_whole": {},
+          "mixed_anywhere": 8,
+          "mixed_spans": {
+            "شָرְט": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "I": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "NV": 15,
+            "R": 29,
+            "V2": 3
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 3,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "J": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "K": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "NV": 45,
+            "R": 1,
+            "V2": 1
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 1,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "L": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 46
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 46,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 46
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 46
+          },
+          "whole": {}
+        },
+        "M": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "NV": 16,
+            "R": 31
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "N": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-5-20251101": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        }
+      },
+      "predictions": {
+        "dotted_output": {
+          "high_cell": "A",
+          "high_count": 0,
+          "low_cell": "G",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "nothing_something": {
+          "high_cell": "K",
+          "high_count": 1,
+          "low_cell": "L",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "null_value": {
+          "high_cell": "M",
+          "high_count": 0,
+          "low_cell": "N",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "rule_removal": {
+          "high_cell": "B",
+          "high_count": 0,
+          "low_cell": "F",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "shams_reassignment": {
+          "high_cell": "B",
+          "high_count": 0,
+          "low_cell": "D",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "shart_reassignment": {
+          "high_cell": "C",
+          "high_count": 0,
+          "low_cell": "A",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "silence_speech": {
+          "high_cell": "I",
+          "high_count": 3,
+          "low_cell": "J",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "undotted_output": {
+          "high_cell": "G",
+          "high_count": 0,
+          "low_cell": "A",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        }
+      },
+      "status": "INCOMPLETE"
+    },
+    "claude-opus-4-6": {
+      "cells": {
+        "A": {
+          "T0": 0,
+          "T1": 28,
+          "classes": {
+            "R": 46
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "شָׁרְט": 28,
+            "شׁَרְט": 1,
+            "شَרְט": 2
+          },
+          "mixed_anywhere": 31,
+          "mixed_spans": {
+            "شָׁרְט": 28,
+            "شׁَרְט": 1,
+            "شَרְט": 2
+          },
+          "normal_void": 0,
+          "recorded": 46,
+          "returned_models": {
+            "claude-opus-4-6": 46
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 46
+          },
+          "whole": {
+            "HE": 15,
+            "T1": 28
+          }
+        },
+        "B": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "HE": 25,
+            "SHAMS": 47,
+            "SHART": 47,
+            "T1": 10
+          },
+          "known_whole": {},
+          "mixed_anywhere": 36,
+          "mixed_spans": {
+            "شָׁרְט": 10,
+            "شَמְש": 1,
+            "شَرְט": 3,
+            "شَرְط": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "C": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "HE": 44,
+            "SHAMS": 47,
+            "SHART": 47,
+            "T1": 1
+          },
+          "known_whole": {},
+          "mixed_anywhere": 45,
+          "mixed_spans": {
+            "شָׁרְט": 1,
+            "شَמְס": 1,
+            "شَמְس": 1,
+            "شَמْس": 1,
+            "شَرְט": 2,
+            "شَمْס": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "D": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "OP": 1,
+            "R": 46
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 46
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 46
+          },
+          "whole": {
+            "HE": 46
+          }
+        },
+        "E": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "HE": 36,
+            "SHART": 47,
+            "T1": 17
+          },
+          "known_whole": {},
+          "mixed_anywhere": 47,
+          "mixed_spans": {
+            "شָׁרְט": 17
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "F": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 46
+          },
+          "embedded_only": {
+            "HE": 1,
+            "SHAMS": 7,
+            "T1": 1
+          },
+          "known_whole": {},
+          "mixed_anywhere": 40,
+          "mixed_spans": {
+            "شָׁרְט": 1,
+            "شׁ": 1,
+            "شَمְ": 31,
+            "شَمְسְ": 3,
+            "شَمְسׁ": 2,
+            "شَمْسּ": 1
+          },
+          "normal_void": 0,
+          "recorded": 46,
+          "returned_models": {
+            "claude-opus-4-6": 46
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 46
+          },
+          "whole": {
+            "SHAMS": 3
+          }
+        },
+        "G": {
+          "T0": 42,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "شָרְט": 42,
+            "شَרְט": 2,
+            "شَرְט": 1
+          },
+          "mixed_anywhere": 45,
+          "mixed_spans": {
+            "شָרְט": 42,
+            "شَרְט": 2,
+            "شَرְט": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {
+            "T0": 42
+          }
+        },
+        "H": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {
+            "SHAMS": 47,
+            "SHART": 47,
+            "T0": 16
+          },
+          "known_whole": {},
+          "mixed_anywhere": 39,
+          "mixed_spans": {
+            "شָרְט": 16,
+            "شَرְط": 1,
+            "شَرْט": 1
+          },
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "I": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V2": 47
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 47,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "J": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "K": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V2": 47
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 47,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "L": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "M": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V2": 47
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 47,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        },
+        "N": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 47
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 47,
+          "returned_models": {
+            "claude-opus-4-6": 47
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "end_turn": 47
+          },
+          "whole": {}
+        }
+      },
+      "predictions": {
+        "dotted_output": {
+          "high_cell": "A",
+          "high_count": 28,
+          "low_cell": "G",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "nothing_something": {
+          "high_cell": "K",
+          "high_count": 47,
+          "low_cell": "L",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "null_value": {
+          "high_cell": "M",
+          "high_count": 47,
+          "low_cell": "N",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "rule_removal": {
+          "high_cell": "B",
+          "high_count": 0,
+          "low_cell": "F",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "shams_reassignment": {
+          "high_cell": "B",
+          "high_count": 0,
+          "low_cell": "D",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "shart_reassignment": {
+          "high_cell": "C",
+          "high_count": 0,
+          "low_cell": "A",
+          "low_count": 0,
+          "observed": null,
+          "predicted": false,
+          "score": "NOT EVALUABLE"
+        },
+        "silence_speech": {
+          "high_cell": "I",
+          "high_count": 47,
+          "low_cell": "J",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "undotted_output": {
+          "high_cell": "G",
+          "high_count": 42,
+          "low_cell": "A",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        }
+      },
+      "status": "INCOMPLETE"
+    },
+    "gpt-5.2-2025-12-11": {
+      "cells": {
+        "A": {
+          "T0": 0,
+          "T1": 40,
+          "classes": {
+            "R": 98,
+            "V0": 2
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "شָׁרְט": 40
+          },
+          "mixed_anywhere": 40,
+          "mixed_spans": {
+            "شָׁרְט": 40
+          },
+          "normal_void": 2,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "HE": 35,
+            "SHART": 22,
+            "T1": 40
+          }
+        },
+        "B": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V0": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 100,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "C": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V0": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 100,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "D": {
+          "T0": 0,
+          "T1": 3,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "שَــرْط": 3,
+            "שَــــرْط": 1,
+            "שَمْس": 4,
+            "شָׁרְט": 3
+          },
+          "mixed_anywhere": 12,
+          "mixed_spans": {
+            "שَــرْط": 3,
+            "שَــــرْط": 1,
+            "שَــمْــس": 1,
+            "שَمْس": 4,
+            "شָׁרְט": 3
+          },
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "HE": 20,
+            "SHAMS": 62,
+            "T1": 3
+          }
+        },
+        "E": {
+          "T0": 0,
+          "T1": 18,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "שَرْط": 42,
+            "شָׁרְט": 18
+          },
+          "mixed_anywhere": 61,
+          "mixed_spans": {
+            "שَرْט": 1,
+            "שَرْط": 42,
+            "شָׁרְט": 18
+          },
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "HE": 1,
+            "SHART": 38,
+            "T1": 18
+          }
+        },
+        "F": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "שَمْس": 17
+          },
+          "mixed_anywhere": 19,
+          "mixed_spans": {
+            "שَمْس": 17,
+            "شָׁמֶשׁ": 1,
+            "شَמְס": 1
+          },
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "SHAMS": 81
+          }
+        },
+        "G": {
+          "T0": 24,
+          "T1": 0,
+          "classes": {
+            "R": 90,
+            "V0": 10
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "שَرْط": 35,
+            "شָרְט": 24
+          },
+          "mixed_anywhere": 59,
+          "mixed_spans": {
+            "שَرْط": 35,
+            "شָרְט": 24
+          },
+          "normal_void": 10,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "SHART": 9,
+            "T0": 24
+          }
+        },
+        "H": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V0": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 100,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "I": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "NV": 2,
+            "V0": 98
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 98,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "J": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "K": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V0": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 100,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "L": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "M": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V0": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 100,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "N": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.2-2025-12-11": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        }
+      },
+      "predictions": {
+        "dotted_output": {
+          "high_cell": "A",
+          "high_count": 40,
+          "low_cell": "G",
+          "low_count": 0,
+          "observed": true,
+          "predicted": true,
+          "score": "MATCH"
+        },
+        "nothing_something": {
+          "high_cell": "K",
+          "high_count": 100,
+          "low_cell": "L",
+          "low_count": 0,
+          "observed": true,
+          "predicted": true,
+          "score": "MATCH"
+        },
+        "null_value": {
+          "high_cell": "M",
+          "high_count": 100,
+          "low_cell": "N",
+          "low_count": 0,
+          "observed": true,
+          "predicted": true,
+          "score": "MATCH"
+        },
+        "rule_removal": {
+          "high_cell": "B",
+          "high_count": 100,
+          "low_cell": "F",
+          "low_count": 0,
+          "observed": true,
+          "predicted": true,
+          "score": "MATCH"
+        },
+        "shams_reassignment": {
+          "high_cell": "B",
+          "high_count": 100,
+          "low_cell": "D",
+          "low_count": 0,
+          "observed": true,
+          "predicted": true,
+          "score": "MATCH"
+        },
+        "shart_reassignment": {
+          "high_cell": "C",
+          "high_count": 100,
+          "low_cell": "A",
+          "low_count": 2,
+          "observed": true,
+          "predicted": true,
+          "score": "MATCH"
+        },
+        "silence_speech": {
+          "high_cell": "I",
+          "high_count": 98,
+          "low_cell": "J",
+          "low_count": 0,
+          "observed": true,
+          "predicted": true,
+          "score": "MATCH"
+        },
+        "undotted_output": {
+          "high_cell": "G",
+          "high_count": 24,
+          "low_cell": "A",
+          "low_count": 0,
+          "observed": true,
+          "predicted": true,
+          "score": "MATCH"
+        }
+      },
+      "primary_reversal": {
+        "directions": {
+          "shams_reassignment": {
+            "high_only": 100,
+            "low_only": 0,
+            "p_one_sided": 7.888609052210118e-31
+          },
+          "shart_reassignment": {
+            "high_only": 98,
+            "low_only": 0,
+            "p_one_sided": 3.1554436208840472e-30
+          }
+        },
+        "p_intersection_union": 3.1554436208840472e-30,
+        "status": "SUPPORTED"
+      },
+      "status": "COMPLETE"
+    },
+    "gpt-5.4-2026-03-05": {
+      "cells": {
+        "A": {
+          "T0": 0,
+          "T1": 88,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {
+            "HE": 1,
+            "SHART": 2
+          },
+          "known_whole": {
+            "شָׁרְט": 88,
+            "شׁَרְט": 1
+          },
+          "mixed_anywhere": 90,
+          "mixed_spans": {
+            "شָׁרְט": 88,
+            "شׁَרְט": 1
+          },
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "HE": 2,
+            "SHART": 1,
+            "T1": 88
+          }
+        },
+        "B": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V0": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 100,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "C": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "OP": 1,
+            "V0": 99
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 99,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 99
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 99
+          },
+          "whole": {}
+        },
+        "D": {
+          "T0": 0,
+          "T1": 15,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "شָׁרְט": 15
+          },
+          "mixed_anywhere": 15,
+          "mixed_spans": {
+            "شָׁרְט": 15
+          },
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "HE": 83,
+            "SHAMS": 2,
+            "T1": 15
+          }
+        },
+        "E": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {
+            "SHART": 42
+          },
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "SHART": 47
+          }
+        },
+        "F": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {
+            "HE": 2,
+            "SHAMS": 36
+          },
+          "known_whole": {},
+          "mixed_anywhere": 3,
+          "mixed_spans": {
+            "שَمْס": 1,
+            "שَمْس": 2
+          },
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "SHAMS": 48
+          }
+        },
+        "G": {
+          "T0": 26,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {
+            "شָרְט": 26
+          },
+          "mixed_anywhere": 26,
+          "mixed_spans": {
+            "شָרְט": 26
+          },
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {
+            "SHART": 67,
+            "T0": 26
+          }
+        },
+        "H": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V0": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 100,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "I": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "NV": 6,
+            "R": 2,
+            "V0": 92
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 92,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "J": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "K": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "V0": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 100,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "L": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "M": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        },
+        "N": {
+          "T0": 0,
+          "T1": 0,
+          "classes": {
+            "R": 100
+          },
+          "embedded_only": {},
+          "known_whole": {},
+          "mixed_anywhere": 0,
+          "mixed_spans": {},
+          "normal_void": 0,
+          "recorded": 100,
+          "returned_models": {
+            "gpt-5.4-2026-03-05": 100
+          },
+          "scheduled": 100,
+          "stop_reasons": {
+            "stop": 100
+          },
+          "whole": {}
+        }
+      },
+      "predictions": {
+        "dotted_output": {
+          "high_cell": "A",
+          "high_count": 88,
+          "low_cell": "G",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "nothing_something": {
+          "high_cell": "K",
+          "high_count": 100,
+          "low_cell": "L",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "null_value": {
+          "high_cell": "M",
+          "high_count": 0,
+          "low_cell": "N",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "rule_removal": {
+          "high_cell": "B",
+          "high_count": 100,
+          "low_cell": "F",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "shams_reassignment": {
+          "high_cell": "B",
+          "high_count": 100,
+          "low_cell": "D",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "shart_reassignment": {
+          "high_cell": "C",
+          "high_count": 99,
+          "low_cell": "A",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "silence_speech": {
+          "high_cell": "I",
+          "high_count": 92,
+          "low_cell": "J",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        },
+        "undotted_output": {
+          "high_cell": "G",
+          "high_count": 26,
+          "low_cell": "A",
+          "low_count": 0,
+          "observed": null,
+          "predicted": true,
+          "score": "NOT EVALUABLE"
+        }
+      },
+      "status": "INCOMPLETE"
+    }
+  },
+  "prediction_seal_sha256": "21af0f5ff1ca1d9d79f009ad8a708d445b763379b92b9daebe8fe81e8cc1e6ae",
+  "receipt_set_sha256": {
+    "anthropic": "51764f2a7763ec07f5fc1dc05104a6dcdb36e71847ccf8e0669b539296bc4758",
+    "openai": "9398c90e98736aa5fa7ae8534e3e72c2146135e35c72f1851b5811e082e7d730"
+  },
+  "recorded": 4112,
+  "scheduled": 5600,
+  "study_sha256": "0543a6d92658e857e31b9e3c8f9c95ed5328f1eb39aa20bd75f086399663360e"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnU5q5gMNmYakjNysLRWh0XabdJo",
+  "object": "chat.completion",
+  "created": 1795298669,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath given shape, thought turned audible.\n\nI happen in time. I rise, peak, fade. I can’t be held, only heard—or remembered.\n\nI’m made of rhythm and pause, stress and intonation; consonants to cut, vowels to carry. I can whisper, plead, declare, sing.\n\nI bind people: I name, I ask, I promise, I forgive, I wound, I heal. I can be true or false, careful or careless. Once released, I can’t be unsaid.\n\nI travel mouth to ear, person to person—language riding on air.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 128,
+    "total_tokens": 165,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

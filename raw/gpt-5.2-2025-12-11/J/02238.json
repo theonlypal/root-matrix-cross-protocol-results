@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmy1ZxYXnMhqcAd1Cbk8xXr6zIie",
+  "object": "chat.completion",
+  "created": 1795296681,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am sound shaped by breath and voice, leaving the mouth in time. I happen in vibrations, in syllables and pauses, in cadence and stress. I carry thought into the air, turn intention into audible form, and vanish as soon as I’m heard—unless I’m caught in memory or recorded.\n\nI can persuade, confess, command, soothe, deceive, sing, stammer, shout, whisper. I can be fluent or broken; I can be formal, intimate, public, private. I am dialogue and monologue, question and answer, story and slogan. I am accent and idiolect, slang and liturgy, rhetoric and rant.\n\nI am power: who gets to speak, who is silenced, whose words are believed. I am relation: I make “you” and “I” meet. I am risk: once released, I cannot be unspoken. I am a bridge made of air.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 191,
+    "total_tokens": 228,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

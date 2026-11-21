@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmzIpBFY6VVxZ337NrsoxcXxLqau",
+  "object": "chat.completion",
+  "created": 1795296760,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Words. Air shaped. Sound becoming meaning.\n\nI arrive in bursts, in whispers, in shouts, in tremors of the tongue. I bridge thought and world. I stumble, sing, persuade, confess, command, comfort.\n\nListen:\nI am the mouth of silence.\nI am the nearest form of thought.\nI break the stillness into names.\n\nI can be tender.\nI can be cruel.\nI can free.\nI can wound.\n\nBefore writing, I was breath.\nAfter breath, I am echo.\n\nSay me, and I vanish.\nHear me, and I become yours.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 122,
+    "total_tokens": 159,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

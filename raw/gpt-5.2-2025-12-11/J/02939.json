@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn46GrDVUnsbAADuLO31abkNVZ6l",
+  "object": "chat.completion",
+  "created": 1795297058,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the act of speaking made audible—thought shaped into sound.\n\nI ride breath, voiced and unvoiced: vowels sung on open air, consonants struck by lips, teeth, tongue, and throat. I arrive in time, one syllable after another, carrying meaning on rhythm, stress, and intonation.\n\nI can soothe, command, confess, persuade, lie, teach, pray, sing. I can tremble into a whisper or cut like a shout. I vanish as soon as I exist, yet I can change what comes next.\n\nI am speech: language given a living mouth.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 125,
+    "total_tokens": 162,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

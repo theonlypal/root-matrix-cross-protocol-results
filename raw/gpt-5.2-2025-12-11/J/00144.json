@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmfYQaqemBWozhk2wb4fgp1tIH1U",
+  "object": "chat.completion",
+  "created": 1795295536,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am sound shaped by breath and mouth—thought made audible.\n\nI arrive as vibration, carried through air (or wire), then become meaning in another mind.\n\nI have pace and pauses. I have stress, pitch, rhythm, and tone. I can soothe, command, confess, persuade, sing.\n\nI can be fluent or faltering, loud or whispered, clear or slurred. I can lie with confidence or tell truth with trembling.\n\nI vanish as soon as I’m made—unless caught and replayed—yet I leave echoes: in rooms, in recordings, in memory.\n\nI am speech.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 125,
+    "total_tokens": 162,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

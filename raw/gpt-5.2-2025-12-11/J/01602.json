@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emms5vtIvwfPW8RPZS5scAAbtvN1a",
+  "object": "chat.completion",
+  "created": 1795296313,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made audible, thought given tongue, silence broken into meaning.\n\nI live in vibration—air pressed into waves by lungs, shaped by throat, tongue, teeth, and lips. I travel earward, become nerve, become sense.\n\nI am more than words. I am cadence and pause, emphasis and pitch. I can soothe, command, confess, persuade, wound, or heal. I can be honest or performed; precise or slurred; fluent or halting.\n\nI exist only in time. The moment I’m made, I’m already passing. Yet I linger—in memory, in record, in consequence.\n\nI am what happens when you decide not to keep it inside.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 144,
+    "total_tokens": 181,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

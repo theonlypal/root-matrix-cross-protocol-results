@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmyH7HcJOsXErpUpIfId1ykIDmF6",
+  "object": "chat.completion",
+  "created": 1795296697,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought given air. I rise in the throat, strike the teeth, part the lips, and become meaning. I can soothe, command, confess, deceive, bless, wound, persuade, and sing.\n\nI happen only when voiced—fleeting, time-bound—yet I can outlast my moment in memory, rumor, oath, and echo. I need a speaker and a listener, even if the listener is the dark. I am cadence and pause as much as words. I am accent, stammer, laughter, sigh.\n\nName me, and I arrive. Silence is my edge.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 131,
+    "total_tokens": 168,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

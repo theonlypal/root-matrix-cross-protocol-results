@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn0pMgLHh6UOIx0YbiB97aafdobG",
+  "object": "chat.completion",
+  "created": 1795296855,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "**שَمْס**  \n1. نجم النظام الشمسي ومصدر الضوء والحرارة للأرض.  \n2. تُستعمل مجازًا للدلالة على السطوع أو الجمال أو العلوّ.  \n3. في العربية: اسم مؤنث، ومن الألفاظ الشائعة في الشعر والبلاغة.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 46,
+    "completion_tokens": 73,
+    "total_tokens": 119,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

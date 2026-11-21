@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmsO8kLQzBAOjJA78fAxBx7ZMs7y",
+  "object": "chat.completion",
+  "created": 1795296332,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the living act of language—sound shaped by breath into meaning.\n\nI begin as intention, then become vibration: lungs press air upward, vocal folds set it humming, tongue and lips carve it into syllables. I arrive in time, not space; I exist as sequence, rhythm, stress, and pause. I can whisper, sing, stammer, declare. I can soothe, command, deceive, confess.\n\nI’m fleeting—vanishing the moment I’m made—yet I linger in minds, echo in rooms, and bind people into shared understanding.\n\nI am speech.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 121,
+    "total_tokens": 158,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

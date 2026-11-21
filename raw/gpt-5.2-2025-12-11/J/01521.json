@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmr8xNNkdk6E1iSNy6gSA3EwhzhT",
+  "object": "chat.completion",
+  "created": 1795296254,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am sound shaped by breath.\n\nI happen in time. I begin, I flow, I end.  \nI ride air from lungs through throat and mouth, carved by tongue, teeth, lips.  \nI am pitch, loudness, rhythm, pause. I am stress and intonation. I am silence between words.\n\nI carry meaning, but I am not meaning. I can soothe, command, confess, deceive.  \nI can be clear or slurred, whispered or shouted, sung or spoken.  \nI can be recorded, but I live most fully when heard.\n\nI reach you, and I vanish.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 127,
+    "total_tokens": 164,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

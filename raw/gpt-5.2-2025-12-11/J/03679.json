@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnC1qM8UlQ0AwtWyV36IiWAaBrYj",
+  "object": "chat.completion",
+  "created": 1795297549,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what happens when breath becomes meaning.\n\nI ride on air, shaped by your tongue and teeth, born in your throat, given rhythm by your lungs. I can whisper or thunder. I can comfort, command, confess, persuade, mislead, heal, wound.\n\nI am transient—here, then gone—yet I leave echoes in memory and consequence.\n\nI am speech.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 80,
+    "total_tokens": 117,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

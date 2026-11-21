@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmzceM2g5ewj0ctgHOwOOQW1nXHV",
+  "object": "chat.completion",
+  "created": 1795296780,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into meaning, sound made intentional.\n\nI live in mouths and minds. I ride air as vibration, then become thought again in another skull. I’m older than writing and quicker than memory—born, spent, and gone unless someone holds me.\n\nI can ask, promise, soothe, warn, lie, pray, command, confess. I can be a single syllable that changes a life, or a flood that drowns the room. I can unite a crowd or split a home.\n\nI have rhythms: cadence, pause, emphasis. Silence is my boundary and my partner; I am defined as much by what I don’t say as by what I do.\n\nI am never only words. I’m tone, timing, pitch, volume. I’m the tremor in “I’m fine,” the knife in “sure,” the shelter in “come here.”\n\nI am speech—human intention turned audible.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 192,
+    "total_tokens": 229,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

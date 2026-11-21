@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmenOSgDpIEGpdWEk8ptDGljteHj",
+  "object": "chat.completion",
+  "created": 1795295489,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "شَرْط\n- كن محددًا وواضحًا.\n- أجب مباشرة بلا تمهيد.\n- لا تضف شرحًا إلا إذا طُلب.\n- استخدم أقل عدد كلمات يفي بالغرض.\n- إذا كان الطلب ناقصًا، اطلب المعطى الناقص فقط.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 46,
+    "completion_tokens": 67,
+    "total_tokens": 113,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

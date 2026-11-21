@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmqV7UXreKcg331l107CE7lwyRDh",
+  "object": "chat.completion",
+  "created": 1795296215,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made audible, thought given shape in time.\n\nI live in vibration—tongue against teeth, lips parting, vocal cords trembling. I arrive as syllables and stress, cadence and pause. I can soothe, command, confess, persuade. I can wound. I can heal.\n\nI exist only as I happen. I vanish the moment I’m made—unless someone remembers, records, repeats.\n\nI’m meaning carried on air.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 95,
+    "total_tokens": 132,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

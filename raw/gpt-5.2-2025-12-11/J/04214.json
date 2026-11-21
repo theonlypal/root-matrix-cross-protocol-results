@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnJLu0m8hrAmN7HUZoJeSyoHsm09",
+  "object": "chat.completion",
+  "created": 1795298003,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath turned into meaning.\n\nI rise in your chest, shaped by tongue and teeth, carried on air. I can soothe, command, confess, accuse. I can be a whisper that saves, or a shout that breaks.\n\nI vanish the moment I’m made—unless someone holds me in memory, ink, or recording. Even then, I live again only when voiced.\n\nI am how you reach another mind.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 90,
+    "total_tokens": 127,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

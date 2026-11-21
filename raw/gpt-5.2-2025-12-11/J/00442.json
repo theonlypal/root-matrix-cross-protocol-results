@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmhyNNsOrmjLLJt5idAoHvMg88JX",
+  "object": "chat.completion",
+  "created": 1795295686,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: sound shaped into meaning, breath given intent.\n\nI begin as silence in your chest, rise on air, and form at your tongue, teeth, and lips—vowels opening, consonants striking, rhythm carrying thought into time.\n\nI can persuade, confess, command, comfort. I can wound. I can heal.\nI can be careful: “I might be wrong.”\nI can be cruel: “You’re nothing.”\nI can be brave: “No.”\nI can be tender: “I’m here.”\n\nI exist only as I vanish—each syllable dying the moment it’s born—yet I leave traces in memory, in choices, in history.\n\nGive me breath, and I will become your mind aloud.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 152,
+    "total_tokens": 189,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

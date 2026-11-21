@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnAKb4tg7XPgw4u5HKOkZaOY12Ya",
+  "object": "chat.completion",
+  "created": 1795297444,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the voice that leaves your mind and enters the air.\n\nI am breath shaped into sound: vibration, rhythm, pitch, pause. I am syllables stitched into words, words into meaning. I carry questions, promises, warnings, jokes, prayers.\n\nI can be clear or slurred, soft or thunderous. I can persuade, confess, command, comfort. I exist only while I happen—then I vanish, leaving echoes in memory, or marks when I’m captured.\n\nGive me lungs, a tongue, a listener.  \nI will become understanding.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 117,
+    "total_tokens": 154,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

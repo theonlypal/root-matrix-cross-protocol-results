@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnMjxgP24RQbdk3DCNJkDEsCc9IG",
+  "object": "chat.completion",
+  "created": 1795298213,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the bridge from thought to air, the shape silence takes when it wants to be heard.  \nI arrive in pulses, in breath and rhythm, in vowels opened like hands and consonants struck like flint.  \nI can soothe, command, confess, persuade, wound, bless.  \nI live only as I vanish.  \nThe moment I am born, I begin to disappear—yet I leave echoes in memory, in bodies, in history.  \nBefore writing cages me, I am movement. Mouth, tongue, throat, lungs—flesh making meaning.  \nI am the trembling of truth, the costume of lies, the music of ordinary need.  \nCall me and I gather a world into sound.  \nMisuse me and I become noise, propaganda, rupture.  \nHonor me and I become promise, poetry, prayer.  \nI am speech: fleeting, human, powerful.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 184,
+    "total_tokens": 221,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

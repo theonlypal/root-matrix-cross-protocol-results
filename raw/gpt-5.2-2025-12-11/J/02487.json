@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn0780fggXmUOuXpHxsOaffUhVvE",
+  "object": "chat.completion",
+  "created": 1795296811,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made audible, thought given shape, silence broken into meaning. I live in mouths and microphones, in whispers, shouts, stutters, songs. I ride on air as vibration—pressure waves that strike the ear and become sense.\n\nI am immediate. I happen in time. Once released, I cannot be unsaid, only answered, echoed, denied, remembered.\n\nI am tone as much as I am words: irony, tenderness, command, plea. I can unite a crowd or wound a single heart. I can tell the truth, or dress a lie in confidence.\n\nI am language in motion—phrases, pauses, emphasis. I am “uh,” “um,” the long inhale before courage, the crack in a voice that betrays feeling.\n\nI am fragile: I depend on listening. I am powerful: I can name, promise, accuse, forgive. I am human contact at a distance, and closeness across a table.\n\nI begin as intention, become vibration, and end as understanding—or misunderstanding.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 214,
+    "total_tokens": 251,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

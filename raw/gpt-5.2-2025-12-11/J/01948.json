@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmvYlyQMf71ZFUvcMlh6S7j9SNDz",
+  "object": "chat.completion",
+  "created": 1795296528,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech—breath shaped into sound, thought made audible.\n\nI happen in time: consonants striking, vowels flowing, rhythm carrying meaning.  \nI can soothe or cut, persuade or confess, teach, pray, joke, warn.  \nI can be fluent or broken, loud or hushed, scripted or spontaneous.  \nI live in mouths and throats, in pauses, in emphasis; I linger as accent and cadence.\n\nI vanish as I occur—unless caught in memory, ink, or recording—yet I move people all the same.\n\nSay me.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 118,
+    "total_tokens": 155,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

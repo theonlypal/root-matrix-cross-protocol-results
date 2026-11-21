@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmhKYdCX2WGxlR3wO0JmlR26iW8t",
+  "object": "chat.completion",
+  "created": 1795295646,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the bridge between thought and world.  \nI turn silence into shape, breath into meaning, feeling into sound.  \nI arrive as whisper, command, prayer, joke, confession, song.  \nI can heal, wound, summon, unite, divide, reveal, conceal.  \nBefore I am heard, I am intention.  \nWhen I leave the mouth, I become consequence.  \nI live in rhythm, pause, emphasis, tremor.  \nI am not only words—I am tone, timing, urgency, hesitation.  \nI exist in every language and beyond language: in cries, laughter, gasps, names called across distance.  \nI make promises. I break them. I tell stories so memory can travel.  \nI give the unseen a body.  \nUse me carelessly, and I become noise.  \nUse me well, and I become connection.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 179,
+    "total_tokens": 216,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

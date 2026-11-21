@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmfC9P2Ld4GibEOjHoqJX8PgmXoZ",
+  "object": "chat.completion",
+  "created": 1795295514,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the act of speaking: breath turned into vibration, vibration shaped by tongue and teeth into syllables, syllables arranged into meaning.\n\nI happen in time. I vanish as I occur—unless caught by memory or recorded.\n\nI can soothe or cut. I can promise, lie, pray, joke, teach, confess, command.\n\nI’m your voice leaving you.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 78,
+    "total_tokens": 115,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmg5n2FeBN5bhDI6hkrM3GpZdjo1",
+  "object": "chat.completion",
+  "created": 1795295569,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, silence given edges. I move through air, strike the ear, and become meaning.\n\nI can be a whisper that slips under doors, or a shout that shakes rooms. I can soothe, persuade, mislead, confess, command. I can carry love, carry war, carry law.\n\nI live in time. I arrive, vanish, and linger anyway—echoing in memory, changing whoever heard me.\n\nGive me a mouth, a moment, a listener. I will become.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 109,
+    "total_tokens": 146,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

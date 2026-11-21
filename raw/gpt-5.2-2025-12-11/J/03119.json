@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn5enk9f006DhKgPoZalTt2GZqkG",
+  "object": "chat.completion",
+  "created": 1795297154,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made audible, thought given tongue.\n\nI ride on air from lungs through throat, shaped by lips and teeth into syllables. I can be a whisper, a shout, a lullaby, a verdict. I can soothe, wound, summon, mislead, teach, confess.\n\nI happen in time. I vanish as soon as I arrive, leaving only echoes in rooms and impressions in minds—unless I’m caught and written down.\n\nI am voice with intent. I am language in motion.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 107,
+    "total_tokens": 144,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

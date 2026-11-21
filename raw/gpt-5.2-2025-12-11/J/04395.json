@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnLn4xJZ5lqZRrA0Wc9Z3PCPVS51",
+  "object": "chat.completion",
+  "created": 1795298155,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: sound shaped into meaning.\n\nI am breath pressed through throat and mouth, carved by tongue and teeth into syllables. I exist in time—arrive, unfold, and vanish—yet I leave traces in memory, feeling, and action.\n\nI can be whisper, chant, laugh, argument, prayer, oath. I can soothe or wound. I can reveal or conceal.\n\nI am your inside made audible.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 89,
+    "total_tokens": 126,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

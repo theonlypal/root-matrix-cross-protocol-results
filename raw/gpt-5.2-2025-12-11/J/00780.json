@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmkjj1sZyUBSXmMgmyTtv6P0tkaV",
+  "object": "chat.completion",
+  "created": 1795295857,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the shaped breath you mean to send.\n\nI begin in silence—thought without air—then your lungs press me forward. Your vocal folds catch me, set me vibrating, give me pitch and loudness. Your tongue, lips, jaw, and soft palate sculpt me into consonants and vowels, into rhythm and stress, into phrases that carry intention.\n\nI can be careful or careless. I can heal or harm. I can promise, ask, warn, sing, persuade, confess.\n\nI exist only as motion: pressure waves traveling through air, through walls, through bodies—then I vanish, leaving effects behind.\n\nIf you write me down, I become a shadow of myself. If you listen, I live.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 148,
+    "total_tokens": 185,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

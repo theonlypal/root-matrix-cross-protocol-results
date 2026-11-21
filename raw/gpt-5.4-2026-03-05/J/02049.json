@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmwQXb08HTx1pKW2VBs53X39Mx4A",
+  "object": "chat.completion",
+  "created": 1795296582,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I arrive as breath given shape. I move between mouths and meanings, carrying thought across the air. I can soothe, command, confess, wound, persuade, sing. Before ink, before record, I was the bridge from mind to mind. I vanish as I appear, yet I linger in memory, in echo, in consequence. Listen: I am sound made intention.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 78,
+    "total_tokens": 115,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

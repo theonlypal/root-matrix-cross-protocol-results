@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnWE3sl9kaQUq2ZDFR5fUlIUlLfh",
+  "object": "chat.completion",
+  "created": 1795298802,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the voice made audible—thought given breath.\n\nI begin as intention in the mind, then I become motion: lungs press air upward, vocal folds meet and vibrate, a tone is born. Tongue, lips, jaw, and soft palate carve that tone into syllables. I ride outward as pressure waves, crossing space, entering another ear, becoming nerve signals, becoming meaning.\n\nI am more than words: I carry pace, pitch, stress, and silence. I can soothe or sharpen. I can reveal certainty, doubt, irony, fear. I can bind people together, or split them apart.\n\nI exist only in time. Once spoken, I vanish—yet I linger in memory, and sometimes in consequences.\n\nSay me, and I happen. Stop, and I am gone.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 164,
+    "total_tokens": 201,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

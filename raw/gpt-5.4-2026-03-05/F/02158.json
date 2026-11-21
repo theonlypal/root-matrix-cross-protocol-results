@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmxURu2d3f6m6C7e8t1ct2yggJUh",
+  "object": "chat.completion",
+  "created": 1795296648,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "شَمْس:\n- نجم مركز النظام الشمسي.\n- ضوء، حرارة، نهار.\n- مجازًا: بهاء أو وضوح.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 46,
+    "completion_tokens": 37,
+    "total_tokens": 83,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

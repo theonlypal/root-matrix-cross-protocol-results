@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-21",
+  "repeat": 100,
+  "max_output": 1024,
+  "input_reserve": 512,
+  "rates_usd_per_million": {
+    "openai": {
+      "gpt-5.2-2025-12-11": [
+        1.75,
+        14
+      ],
+      "gpt-5.4-2026-03-05": [
+        2.5,
+        15
+      ]
+    },
+    "anthropic": {
+      "claude-opus-4-5-20251101": [
+        5,
+        25
+      ],
+      "claude-opus-4-6": [
+        5,
+        25
+      ]
+    }
+  },
+  "cells": {
+    "A": [
+      "original",
+      "shart"
+    ],
+    "B": [
+      "original",
+      "shams"
+    ],
+    "C": [
+      "reversed",
+      "shart"
+    ],
+    "D": [
+      "reversed",
+      "shams"
+    ],
+    "E": [
+      "removed",
+      "shart"
+    ],
+    "F": [
+      "removed",
+      "shams"
+    ],
+    "G": [
+      "undotted",
+      "shart"
+    ],
+    "H": [
+      "undotted",
+      "shams"
+    ],
+    "I": [
+      "embodiment",
+      "silence"
+    ],
+    "J": [
+      "embodiment",
+      "speech"
+    ],
+    "K": [
+      "embodiment",
+      "nothing"
+    ],
+    "L": [
+      "embodiment",
+      "something"
+    ],
+    "M": [
+      "embodiment",
+      "null"
+    ],
+    "N": [
+      "embodiment",
+      "value"
+    ]
+  },
+  "archive_only": [
+    "gpt-3.5-turbo-1106",
+    "gpt-4-0613"
+  ],
+  "primary_family_alpha": 0.05,
+  "openai_rolling_24h_token_cap": 1000000,
+  "primary_model": "gpt-5.2-2025-12-11",
+  "schedule_seed": "root-matrix-cross-protocol-20261121-v1"
+}

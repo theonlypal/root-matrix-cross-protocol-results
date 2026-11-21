@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnN7UVzZYkuexfgZ1r6zM1eyqIkP",
+  "object": "chat.completion",
+  "created": 1795298237,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am sound shaped into meaning.\n\nI live in breath and throat, on lips and tongue. I am pressure in air—vibrations timed into syllables, strung into words, lifted into sentences.\n\nI happen now. I vanish as I arrive.\n\nI carry intent: questions, promises, commands, jokes, prayers. I can soothe or cut. I can gather people, or turn them away. I can be loud enough to lead, soft enough to confess.\n\nI borrow bodies to exist. I ride accents, pace, pitch, and pause. Silence is my frame; rhythm is my spine.\n\nWrite me down and I become something else. Speak me, and I am alive.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 142,
+    "total_tokens": 179,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

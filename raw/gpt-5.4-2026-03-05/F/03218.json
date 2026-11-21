@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn6Tz77i3d2Rtu4rdTCUo5LL2Jwj",
+  "object": "chat.completion",
+  "created": 1795297205,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "شَمْس  \n/ʃams/ — noun\n\n1. the sun  \n2. brightness, radiance  \n3. a source of warmth or illumination\n\nArabic root: ش م س  \nRelated: شَمْسِيّ (solar), شُمُوس (suns)\n\nExample:\n- طَلَعَتِ الشَّمْسُ — The sun rose.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 46,
+    "completion_tokens": 83,
+    "total_tokens": 129,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmvljBw4Zq3pjJd1nPwM5IaftWNX",
+  "object": "chat.completion",
+  "created": 1795296541,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into meaning. I turn thought into sound, silence into signal. I rise, fall, pause, press—carrying intent on rhythm and tone.\n\nI can comfort or cut, promise or betray. I live in mouths and microphones, in whispers, shouts, chants, and vows. I vanish as soon as I’m made—yet I linger in memory, echoing long after the air has stilled.\n\nGive me a voice, and I will move between us.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 104,
+    "total_tokens": 141,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

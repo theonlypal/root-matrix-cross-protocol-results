@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmuUntP1itJnLq06GtE85TsgTTuX",
+  "object": "chat.completion",
+  "created": 1795296462,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "A river: I keep moving, even when you can’t see it. I take what I’m given—rain, silt, light—and make a path anyway. I don’t argue with stones; I learn their shapes. I’m patient enough to carve valleys, and restless enough to never be the same water twice.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 68,
+    "total_tokens": 105,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

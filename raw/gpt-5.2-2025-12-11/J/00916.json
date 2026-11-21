@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmlt1XAXsPrZnxI3wicXd9ZuyTeS",
+  "object": "chat.completion",
+  "created": 1795295929,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made audible, thought given voice, silence turned into meaning.\n\nI live in lungs, tongue, teeth, and time. I arrive as vibration—air pressed and released—then become syllables, then sense.\n\nI can comfort, command, confess, deceive. I can build trust or break it. I can be measured and careful, or reckless and raw. I can be a whisper that changes a life, or a shout that ends a room.\n\nI am fleeting: I exist only while I’m happening. Yet I linger—echoing in memory, recorded in machines, repeated by others, carried forward as rumor or promise.\n\nI am not just words. I am cadence, pause, emphasis, pitch. Meaning hides in what you stress, what you swallow, what you cannot quite say.\n\nUse me, and I shape you back.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 176,
+    "total_tokens": 213,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

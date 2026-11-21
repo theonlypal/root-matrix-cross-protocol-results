@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn1L1l83PVkSMpn728Feflob52V8",
+  "object": "chat.completion",
+  "created": 1795296887,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I happen. I move air into meaning.\n\nI am sound shaped into intent, thought given rhythm, silence broken on purpose. I arrive in breaths, in bursts, in tremors, in songs. I can soothe, command, confess, wound, persuade, reveal. I can hesitate. I can pour.\n\nBefore me, there is feeling without form. Through me, the inward becomes shared.\n\nI live in tongues, teeth, lips, throat. I ride accent, pitch, pause, emphasis. I am not only words, but cadence; not only message, but manner. A whisper is me. A sermon is me. A stutter, a vow, a joke, a eulogy, a name called across a room—I am there.\n\nI build bridges from one mind to another, though I do not guarantee safe crossing.\n\nI vanish as I appear, yet I linger in memory, in consequence, in echo.\n\nListen:\nI am the human need to be heard made audible.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 202,
+    "total_tokens": 239,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

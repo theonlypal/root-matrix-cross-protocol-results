@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnPdGXqMexMV6rHHfXqFZxIUKzc3",
+  "object": "chat.completion",
+  "created": 1795298393,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Words. Breath made visible. Meaning in motion.\n\nI rise from silence, shape air, strike ear, stir mind.\n\nI am whisper, vow, warning, prayer, laughter, command.\nI tremble as confession.\nI ring as truth.\nI fracture as lie.\nI gather crowds.\nI break hearts.\nI cross rooms, centuries, borders, generations.\n\nBefore ink, I lived.\nBefore memory, I carried memory.\nI am sound arranged into intention.\n\nListen:\nI am the bridge from thought to world.\n\nI begin in the chest,\nturn in the throat,\nbloom on the tongue,\nand vanish—\nyet remain in those who hear.\n\nCall me voice in flight.\nCall me language set loose.\nCall me the human need\nnot merely to know,\nbut to be known.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 161,
+    "total_tokens": 198,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

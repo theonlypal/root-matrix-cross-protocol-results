@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnWz4OdikYDAZJRVE5ZWJtLMn9ob",
+  "object": "chat.completion",
+  "created": 1795298849,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into meaning, voice riding air.\n\nI am the bridge from thought to world—sound that becomes sense, rhythm that becomes intention. I live in mouths and microphones, in whispers, shouts, stutters, songs. I can soothe or wound, summon or silence, unite or divide.\n\nI am timing—pause, emphasis, cadence. I am accent and register, slang and scripture, vow and verdict. I can be rehearsed or raw. I vanish as I happen, yet I linger in those who hear me.\n\nI am not just words; I am how they arrive.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 126,
+    "total_tokens": 163,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmuoxPN7rK7ZYf1v6AFVMAYgQuqQ",
+  "object": "chat.completion",
+  "created": 1795296482,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made word, thought given sound, silence turned shared.\n\nI live in lungs and larynx, in tongue and teeth, in timing and tone. I am vibration shaped into meaning—questions rising, promises steady, warnings sharp, comfort soft.\n\nI can name and I can wound. I can teach, persuade, confess, chant, joke, bargain, pray. I travel ear to mind, and sometimes straight to the heart.\n\nI exist only in the living moment: once spoken, I vanish—yet I linger as echo, memory, consequence.\n\nSay me carefully.\nListen for me closely.\nI am what passes between us.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 134,
+    "total_tokens": 171,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

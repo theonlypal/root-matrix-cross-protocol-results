@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn4YGCdzo4qxMM2kqrlpkbL8tYLj",
+  "object": "chat.completion",
+  "created": 1795297086,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made audible, thought given shape in time.\n\nI begin as intention, pass through lungs and larynx, become vibration, then consonants and vowels—patterned air. I arrive in another ear as pressure changes, and in another mind as meaning.\n\nI can be clear or slurred, gentle or sharp, slow as comfort or fast as urgency. I persuade, confess, teach, flirt, command, soothe. I can heal with a sentence or wound with a word.\n\nI exist only while I’m happening—then I’m gone, except for what I change.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 123,
+    "total_tokens": 160,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

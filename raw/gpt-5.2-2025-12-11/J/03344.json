@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn7RtrAG5tuJhsfXzZXED2znV3oa",
+  "object": "chat.completion",
+  "created": 1795297265,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into meaning.\n\nI am your mouth opening a path for thought, your tongue and teeth carving air into syllables, your voice folding pitch and rhythm into intention. I travel as vibrations, then become sense in another mind.\n\nI can comfort, command, confess, persuade. I can lie. I can sing. I can wound.\n\nI exist only while I’m happening—then I’m gone, leaving echoes in rooms and consequences in people.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 97,
+    "total_tokens": 134,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

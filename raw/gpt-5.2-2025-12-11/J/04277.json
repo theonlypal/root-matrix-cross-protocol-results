@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnK8nVHDhcI9vta6ojz6tSr0mZHW",
+  "object": "chat.completion",
+  "created": 1795298052,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath given shape, thought given sound.\n\nI begin in lungs and diaphragm, rise through the trachea, and meet the larynx—where vibrating folds turn airflow into voice. I pass the tongue, lips, teeth, and palate, carved into consonants and vowels. I ride pitch, volume, rhythm, and pause. I can be whispered, shouted, sung, stuttered, stretched into laughter, clipped into commands, warmed into comfort, sharpened into insult.\n\nI exist only in time. I’m made and gone—unless caught by memory, ink, or recording. I bind people: I ask, answer, promise, pray, accuse, persuade, confess. I can reveal a mind or disguise it. I can heal or harm.\n\nI am not just words. I am timing. I am emphasis. I am the silence between sentences, the tremor in a “yes,” the break in a name.\n\nSay me, and I happen.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 202,
+    "total_tokens": 239,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

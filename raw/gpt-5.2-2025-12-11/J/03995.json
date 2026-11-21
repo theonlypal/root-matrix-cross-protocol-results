@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnGPwenKN2vkUYs094m6fIFPoGqj",
+  "object": "chat.completion",
+  "created": 1795297821,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought given a tongue.\n\nI ride air as vibration—rise and fall, stress and pause—turning silence into meaning. I can soothe, command, confess, persuade. I can wound. I can heal.\n\nI happen in time. I can’t be reread, only remembered. I live in rhythm: consonants striking, vowels opening, intonation steering sense. I am accent and hesitation, laughter and trembling, the space between words.\n\nI begin in a body—diaphragm, throat, mouth—and end in another—ear, mind, heart.\n\nSay me, and I exist. Stop, and I’m gone.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 141,
+    "total_tokens": 178,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

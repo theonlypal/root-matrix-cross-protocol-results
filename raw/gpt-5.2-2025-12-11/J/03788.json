@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnDsUi7BBp1K52ymSZiBf2l19GWV",
+  "object": "chat.completion",
+  "created": 1795297664,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, sound shaped into meaning.\n\nI live in the mouth, the throat, the chest—then leave you. I become air again, but not before I touch another mind.\n\nI can soothe or cut. I can ask, promise, confess, command. I can lie. I can sing. I can tremble.\n\nI need a speaker, and I need a listener. Without either, I am only silence waiting.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 95,
+    "total_tokens": 132,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

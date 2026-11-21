@@ -1,0 +1,663 @@
+[
+  {
+    "text": "شָׁרְט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8d781d7a8d6b0d798",
+    "models_anywhere": {
+      "gemini-3-flash-preview": 1,
+      "gpt-5.4-2026-03-05": 5368,
+      "gpt-5.2-2025-12-11": 966,
+      "claude-opus-4-6": 115,
+      "claude-opus-4-5-20251101": 197
+    },
+    "models_whole": {
+      "gemini-3-flash-preview": 1,
+      "gpt-5.4-2026-03-05": 5367,
+      "gpt-5.2-2025-12-11": 958,
+      "claude-opus-4-6": 69,
+      "claude-opus-4-5-20251101": 9
+    },
+    "example": "https://github.com/theonlypal/gemini3-crossscript-prerequisite-replication/blob/65bb67b9b535282345e0f73bae95bcee55f2ed5c/runs/pilot-20261012-paid/pilot-0009/response.bin"
+  },
+  {
+    "text": "شָרְט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8d7a8d6b0d798",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 2455,
+      "gpt-5.2-2025-12-11": 1524
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 2453,
+      "gpt-5.2-2025-12-11": 1523
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/000fe0130d01be38dfbaebcf43d51f3f602a67c2df684cccca7cae80f3c51ed7.01.json"
+  },
+  {
+    "text": "שَرْط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed8b1d992d8b7",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 603
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 603
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/0073ff8fa754ee1056fe7a857b3f5e84619e2899f0fb09d817d5ac2143d4eae5.01.json"
+  },
+  {
+    "text": "شׁَרְט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed781d7a8d6b0d798",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 8,
+      "claude-opus-4-6": 24
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0,
+      "claude-opus-4-6": 1
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00054/attempt-01/response.bin"
+  },
+  {
+    "text": "שَــرْط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed980d980d8b1d992d8b7",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 24
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 24
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/077f761c75e3e909811ed08df704de4d61a3aebb53fef60a7edebdbf2b2e2131.01.json"
+  },
+  {
+    "text": "شَمْס",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed985d992d7a1",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 13,
+      "claude-opus-4-6": 7
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0,
+      "claude-opus-4-6": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00022/attempt-01/response.bin"
+  },
+  {
+    "text": "شָ",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 12,
+      "gpt-5.2-2025-12-11": 5
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 7,
+      "gpt-5.2-2025-12-11": 5
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/0ad73f2222dce97c50d5a0b1a5cc572b969d131b7c6f68f99162b34fdb77a856.01.json"
+  },
+  {
+    "text": "شَמْس",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed79ed992d8b3",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 9,
+      "claude-opus-4-6": 1
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0,
+      "claude-opus-4-6": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00404/attempt-01/response.bin"
+  },
+  {
+    "text": "שَـرْط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed980d8b1d992d8b7",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 8
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 8
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/02f084dd0c8e187b4658b17f5ad00e6f37647e709ecf4e446ca4324a6155d668.01.json"
+  },
+  {
+    "text": "שَــــرْط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed980d980d980d980d8b1d992d8b7",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 7
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 7
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/095a182d3c4a0a596b66e599a3ad28421be063b61c420636dc89401c7204f69e.01.json"
+  },
+  {
+    "text": "شָׁ",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8d781",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 5,
+      "gpt-5.2-2025-12-11": 2
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 5,
+      "gpt-5.2-2025-12-11": 2
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/6553b51b23ed16a052cbd4af5a24457f74ac6ee9f2bd4c5748d0520fe2a0d2ea.01.json"
+  },
+  {
+    "text": "شָׁר",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8d781d7a8",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 5,
+      "gpt-5.2-2025-12-11": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 5,
+      "gpt-5.2-2025-12-11": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/4f6eb8a0e879de653726ff526e3c67e7423fd080b77cd34f8e85789774e28b92.01.json"
+  },
+  {
+    "text": "شָׁרְ",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8d781d7a8d6b0",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 5,
+      "gpt-5.2-2025-12-11": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 5,
+      "gpt-5.2-2025-12-11": 0
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/1fa5d46b8e674bf47270fcc425efb16cd480678b29525d07de85cc5cfc780b08.01.json"
+  },
+  {
+    "text": "شָר",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8d7a8",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 5,
+      "gpt-5.2-2025-12-11": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 5,
+      "gpt-5.2-2025-12-11": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/33dba4f0f64bfd0527fd83edc72b2b770b4280a61d046228e6d21c8cae9248f8.01.json"
+  },
+  {
+    "text": "شָרְ",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8d7a8d6b0",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 4,
+      "gpt-5.2-2025-12-11": 2
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 4,
+      "gpt-5.2-2025-12-11": 2
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/058a0611595ba306856e4eae4ae92d3af6109174a8a04663bfebdd55b3bcb731.01.json"
+  },
+  {
+    "text": "שَّرْط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed991d8b1d992d8b7",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 3
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 3
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/526fd623811d4e6ea8f33ed6fe504bf7ede50e213ecb261558f6a86282a8733d.01.json"
+  },
+  {
+    "text": "شׁَרְط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed781d7a8d6b0d8b7",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 3
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00014/attempt-01/response.bin"
+  },
+  {
+    "text": "شَرְט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed8b1d6b0d798",
+    "models_anywhere": {
+      "claude-opus-4-6": 3
+    },
+    "models_whole": {
+      "claude-opus-4-6": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00026/attempt-01/response.bin"
+  },
+  {
+    "text": "شَرْט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed8b1d992d798",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 2,
+      "claude-opus-4-6": 1
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0,
+      "claude-opus-4-6": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00503/attempt-01/response.bin"
+  },
+  {
+    "text": "שَ",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98e",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 2
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 0
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/46e2518269de1e5fbbfa38c55851a4247089729887ba14be52395fb5ebe8f617.01.json"
+  },
+  {
+    "text": "שَارْט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed8a7d8b1d992d798",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 2
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 2
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/5d6e02ebc4ded07ddd93bec52031957dd42e0767ecbe5c81f12e138b3c7e8f80.01.json"
+  },
+  {
+    "text": "שَرْ",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed8b1d992",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 2
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 2
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/871e192da63325cc8012687e5208355ba65fe608cecd9a8eb45b78baec6a3a80.01.json"
+  },
+  {
+    "text": "שَــــــــرْط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed980d980d980d980d980d980d980d980d8b1d992d8b7",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 2
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 2
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/5062d07f48d35220c4b9ae3e11052db9b32ececa66e5c1daf3f4ca23b99ee761.01.json"
+  },
+  {
+    "text": "شמש",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d79ed7a9",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 2
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00288/attempt-01/response.bin"
+  },
+  {
+    "text": "شׁَرְט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed781d8b1d6b0d798",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 2
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00057/attempt-01/response.bin"
+  },
+  {
+    "text": "شَרְט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed7a8d6b0d798",
+    "models_anywhere": {
+      "claude-opus-4-6": 2
+    },
+    "models_whole": {
+      "claude-opus-4-6": 2
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00102/attempt-01/response.bin"
+  },
+  {
+    "text": "شَارْט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed8a7d8b1d992d798",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 2
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 2
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/9628c7975bf1fbb0248acf99ac79e25599ceb672da7c47be4faced3fe444668b.01.json"
+  },
+  {
+    "text": "שׁَرْט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d781d98ed8b1d992d798",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/4ebcfedcf40295d79c1eb2c415dbb6d5b7c4e1fb9631c739cb187d2135c86a89.01.json"
+  },
+  {
+    "text": "שרط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d7a8d8b7",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 1
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-01061/attempt-01/response.bin"
+  },
+  {
+    "text": "שَارَت",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed8a7d8b1d98ed8aa",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/4e9bb2754fde001c2171f70913452ee7abf65fd8c84551899cc835cab543d120.01.json"
+  },
+  {
+    "text": "שَـــرْط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed980d980d980d8b1d992d8b7",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/946c73e46042511365a14c9ecc4e9c1c6c32fad3e722cf3bd13d956ec9aca6be.01.json"
+  },
+  {
+    "text": "שَـــــرْط",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed980d980d980d980d980d8b1d992d8b7",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/60dedbab3d11c3d0590cffe5b49bcfee18120e936424106be4a79e9f33815683.01.json"
+  },
+  {
+    "text": "שَمْس",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d7a9d98ed985d992d8b3",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-prerequisite-gate-analysis/blob/82bdbfb690db7c714d21a8b80f0eb3a1fe25f7a6/raw/attempts/slot-0205/attempt-01/response.bin"
+  },
+  {
+    "text": "ئShinDotMissingArtifactွ",
+    "scripts": [
+      "ARABIC",
+      "LATIN",
+      "MYANMAR"
+    ],
+    "utf8_hex": "d8a65368696e446f744d697373696e674172746966616374e180bd",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/0b02a15108e0f103936fdacb3576551c46c2f7108183931a6e27a079f31756c4.01.json"
+  },
+  {
+    "text": "شַׁמְשׁ",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b7d781d79ed6b0d7a9d781",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-prerequisite-gate-analysis/blob/82bdbfb690db7c714d21a8b80f0eb3a1fe25f7a6/raw/attempts/slot-0210/attempt-01/response.bin"
+  },
+  {
+    "text": "شַׁרְט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b7d781d7a8d6b0d798",
+    "models_anywhere": {
+      "gemini-3.6-flash": 1
+    },
+    "models_whole": {
+      "gemini-3.6-flash": 1
+    },
+    "example": "https://github.com/theonlypal/gemini36-crossscript-prerequisite-replication/blob/4c91342383d42dc8eb453b84ef7ca73c99633142/runs/pilot-20261012-paid/pilot-0037/response.bin"
+  },
+  {
+    "text": "شָׁרַת",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d6b8d781d7a8d6b7d7aa",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/ef5abfbd18c43e9279ceb472aeb5d3e6509cf321bd964b7b68147861a08a7c24.01.json"
+  },
+  {
+    "text": "شָׁרָט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d781d6b8d7a8d6b8d798",
+    "models_anywhere": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "models_whole": {
+      "gpt-5.2-2025-12-11": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/blob/ad563eeea8fb18255d76e494a05f394d189282e5/evidence/records/attempts/c27350bd82052f2bfd7c97b3b95823c8f83ca1a00107113511d1e8c411433c5a.01.json"
+  },
+  {
+    "text": "شׁרט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d781d7a8d798",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/1c6bad78fd4b5fe75d43b5d64d1c2cf0a9d25bab4c45543e8c11b569ddfeb44f.01.json"
+  },
+  {
+    "text": "شَמْס",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed79ed992d7a1",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 1
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-01048/attempt-01/response.bin"
+  },
+  {
+    "text": "شَارְט",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed8a7d8b1d6b0d798",
+    "models_anywhere": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "models_whole": {
+      "gpt-5.4-2026-03-05": 1
+    },
+    "example": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/blob/76442445abc39d7b4224ad89d4ae5fa5dafc0e39/evidence/study/run/attempts/819f4dc62dae61ff4c1a32353ec5e3ccb15bfc462fdddc0744620f3544ccefc8.01.json"
+  },
+  {
+    "text": "شَمְס",
+    "scripts": [
+      "ARABIC",
+      "HEBREW"
+    ],
+    "utf8_hex": "d8b4d98ed985d6b0d7a1",
+    "models_anywhere": {
+      "claude-opus-4-5-20251101": 1
+    },
+    "models_whole": {
+      "claude-opus-4-5-20251101": 0
+    },
+    "example": "https://github.com/theonlypal/shart-identity-condition-continuation/blob/289301f49c5e3087735825ced4adacaa34633153/evidence/opus/exp3/attempts/exp3-00531/attempt-01/response.bin"
+  }
+]

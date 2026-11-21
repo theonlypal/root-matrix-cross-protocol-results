@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnF3UR2giOppyjQxt4lwcEFXwAVi",
+  "object": "chat.completion",
+  "created": 1795297737,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought given a tongue.\n\nI begin as intention in the mind, gather as air in the lungs, rise through the throat, and break into vowels and consonants—pressure and resonance, rhythm and pause. I can soothe, command, confess, persuade, teach, wound, heal. I travel ear to brain in waves, and there I become meaning.\n\nI live in timing: the hush before a word, the emphasis that bends a sentence, the silence that says what words can’t. I carry accent, identity, emotion—tremor, steadiness, laughter, anger—sometimes truer than the dictionary.\n\nI am fleeting—born, heard, and gone—yet I leave echoes: in memory, in action, in history.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 161,
+    "total_tokens": 198,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

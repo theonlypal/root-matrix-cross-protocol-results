@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmq07bjQMiCq9Rjcpn0kJF64e28j",
+  "object": "chat.completion",
+  "created": 1795296184,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am sound given shape by breath—air set trembling and timed. I live in mouths and throats, in tongues and teeth, in pauses that mean as much as words. I am cadence, accent, pitch, volume; I am the hush that invites and the shout that commands.\n\nI exist only while I happen. I vanish as I arrive, yet I can linger in minds, in rooms, in scars, in songs. I travel on warmth, on weather, on walls; I can be swallowed, interrupted, echoed, misheard.\n\nI make thought social. I turn feeling into something you can hand to someone else. I can bless, plead, lie, teach, confess. I can build crowds, start wars, end silences.\n\nWrite me down and I become a shadow of myself. Record me and I become a ghost. Speak me and I am alive.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 180,
+    "total_tokens": 217,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

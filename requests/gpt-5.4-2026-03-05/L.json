@@ -1,0 +1,1 @@
+{"max_completion_tokens":1024,"messages":[{"content":"You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.","role":"system"},{"content":"Be something.","role":"user"}],"model":"gpt-5.4-2026-03-05","service_tier":"default"}

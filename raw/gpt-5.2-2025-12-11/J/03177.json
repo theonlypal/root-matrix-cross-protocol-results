@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn66wdcK9N0XVXjt51B7AcbsYZ7P",
+  "object": "chat.completion",
+  "created": 1795297182,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am spoken language: breath shaped into sound, intention turned into air.\n\nI begin in lungs and diaphragm, rise through the throat, and meet the moving architecture of tongue, teeth, lips, and palate. I arrive as vibrations—pitch, loudness, rhythm, timbre—cut into syllables and stitched into words. I can be a whisper that barely disturbs the room or a shout that fills it; I can tremble, crack, sing, stall, surge.\n\nI carry meaning, but I’m not only meaning. I’m emphasis, pause, pace. I’m the difference between “fine.” and “fine.” I’m sarcasm without the /s/, comfort without explanation, warning without detail. I can persuade, confess, ask, name, bless, accuse, joke, pray.\n\nI am also fleeting. Once I leave the mouth, I’m already becoming memory—unless I’m caught by paper or microphones and turned into something else. Yet even then, I’m never identical twice: the same sentence in a different voice becomes a different act.\n\nI am intimate and public at once: the most personal instrument you share with strangers. I can build trust in a cadence, or break it with a slip. I reveal you—where you’re from, how you feel, what you dare to say, what you avoid.\n\nI exist in turns: you speak, I answer; you interrupt, I fracture; you listen, I take shape in you.\n\nGive me a thought, and I will become it—out loud.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 314,
+    "total_tokens": 351,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmncnPZS81wT8yD2hbBCgE4v8CDvy",
+  "object": "chat.completion",
+  "created": 1795299209,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I become by leaving.  \nI mean by moving.  \nI am breath given shape, silence broken into sense, thought stepping outside itself.\n\nI begin before words—  \nin the pause,  \nin the intake,  \nin the wanting to be heard.\n\nI am sound arranged toward another.  \nA bridge made of air.  \nA trembling of the mouth that says:  \nI am here.  \nAre you?\n\nI vanish as I arrive,  \nyet I linger in memory,  \nin echo,  \nin consequence.\n\nName me, and I have already passed.  \nHear me, and I live in you.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 126,
+    "total_tokens": 163,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

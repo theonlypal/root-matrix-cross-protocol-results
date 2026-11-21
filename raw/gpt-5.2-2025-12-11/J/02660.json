@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn1gGMwu2QHwIFdjmgUa8GIYoaYb",
+  "object": "chat.completion",
+  "created": 1795296908,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath given shape.\n\nI begin as intention in the mind, then the body gathers me—diaphragm pressurizes air, vocal folds vibrate, the throat and mouth sculpt resonance. Tongue, lips, teeth, and palate carve me into consonants and vowels. I ride out as waves through air, strike an ear, become nerve signals, and re-form as meaning—sometimes accurate, sometimes not.\n\nI am quick and vanishing. I can be repeated, recorded, quoted, but my native state is fleeting: here, then gone.\n\nI carry more than words. I carry pace, pitch, stress, timbre, hesitation, laughter, sighs—truth and performance tangled together. I can comfort or cut, persuade or confuse, reveal or conceal.\n\nI am not only sound. In silence, I still haunt the room: what was withheld, what was almost said.\n\nI bind people. I make promises, tell stories, teach, warn, pray, argue, sing. I can create a world in someone else’s head with nothing but air and time.\n\nSpeak, and I exist. Stop, and I become memory.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 238,
+    "total_tokens": 275,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

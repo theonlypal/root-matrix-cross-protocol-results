@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnZiiz9F9n3f9bYc80Ioz78zlQvW",
+  "object": "chat.completion",
+  "created": 1795299018,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into meaning.\n\nI live in the mouth and the ear, in timing, tone, pause. I am vibration that becomes intent—questions, promises, comfort, command.\n\nI can be soft as a whisper or loud enough to move a room. I can heal, mislead, persuade, confess. I am never just words; I am how they land.\n\nI exist only as I pass—then I’m gone, except for what I change.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 99,
+    "total_tokens": 136,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

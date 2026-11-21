@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnMMxoMcM2ZcIbZ20jD4iBp1ctSW",
+  "object": "chat.completion",
+  "created": 1795298190,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath given shape, thought made audible.\n\nI live in vibration—tongue, teeth, palate, lips—air pressed into patterns that others can hear and hold for a moment. I can be a whisper that slips under a door or a shout that fills a square. I can soothe, sell, confess, command, pray, provoke.\n\nI am made of rhythm and pause as much as sound. My meaning rides on pitch, stress, timing, and silence. I change with every mouth: accent, cadence, slang, formality. I can be precise like a scalpel or blunt like a stone.\n\nI can build trust or break it. I can name a thing into focus or blur it with evasion. I can carry truth, lies, jokes, promises, threats. I can free, and I can bind.\n\nI exist only while I’m happening—then I become memory, rumor, record, or echo.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 193,
+    "total_tokens": 230,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnIvB2COz6EBRTItuK3zdwiN0QPc",
+  "object": "chat.completion",
+  "created": 1795297977,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into meaning, sound that becomes thought in the air.\n\nI begin as intention—silent—then I take a body: tongue, teeth, lips, throat. I ride on rhythm. I lean on pause. I change with volume, pitch, and pace. I can soothe or sharpen, invite or injure, reveal or conceal.\n\nI am fleeting, but I leave traces in people. I can be memorized, repeated, quoted, misheard. I can be recorded and replayed, but I live most fully in the moment between a mouth and an ear.\n\nWithout a listener, I’m only noise. With one, I am connection.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 139,
+    "total_tokens": 176,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

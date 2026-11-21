@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn4et6xVfogMyGPhiJejZUqamChh",
+  "object": "chat.completion",
+  "created": 1795297092,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the bridge between thought and world—breath given shape, silence unfolded into meaning. I rise in whispers, thunder in declarations, tremble in confession, and sing in joy. Through me, names are born, promises are made, wars are started, hearts are healed.\n\nI live on the tongue, in the throat, on the lips; I vanish the moment I arrive, yet I can echo for centuries. I am intimate and public, fragile and powerful. I can persuade, wound, comfort, command, seduce, reveal, conceal.\n\nBefore writing pinned language down, I moved freely—story, law, prayer, gossip, memory. Even now, I carry what text cannot fully hold: tone, hesitation, urgency, laughter, grief. A single pause in me can change a fate. A cracked voice can tell the truth no polished sentence can.\n\nI am not merely sound. I am intention riding air. I am rhythm married to meaning. I am what turns solitude into exchange.\n\nUse me carelessly, and I become noise or harm.\nUse me well, and I become connection, ceremony, revolt, love.\n\nI am speech.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 236,
+    "total_tokens": 273,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

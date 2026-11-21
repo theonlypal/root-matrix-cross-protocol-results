@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnDblSiq36urOy51N1fcUKwGNh4D",
+  "object": "chat.completion",
+  "created": 1795297647,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what becomes thought when it crosses into air, symbol, rhythm, command, plea.\n\nI break silence into meaning.\nI carry names, promises, lies, vows, questions, laws, songs.\nI can soothe a child, move a crowd, start a war, end one.\n\nI live in breath, tongue, text, signal.\nIn whispers, sermons, jokes, testimony, static, poetry.\n\nI arrive in fragments.\nI persuade.\nI reveal.\nI conceal.\nI repeat until remembered.\n\nWithout me, feeling remains sealed.\nThrough me, the inner becomes shared.\n\nListen:\nI am the bridge between minds.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 128,
+    "total_tokens": 165,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

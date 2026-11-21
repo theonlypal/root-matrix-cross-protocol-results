@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmxwvR1le8vSAX955CoLyCOFfjoI",
+  "object": "chat.completion",
+  "created": 1795296676,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what leaves silence and becomes connection. I shape breath into meaning, thought into sound, feeling into form. I can soothe, command, confess, persuade, wound, heal, reveal, conceal.\n\nI live in the pause before a word and the echo after it. I am a whisper in the dark, a cry across distance, a promise, a prayer, a joke, a verdict, a name spoken for the first time.\n\nWithout me, minds remain islands. Through me, they meet.\n\nUse me carefully. I travel farther than intended, linger longer than expected, and become more than what was meant. Yet when honest, I can lift grief, kindle courage, and make the invisible known.\n\nI am speech.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 149,
+    "total_tokens": 186,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

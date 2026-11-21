@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmlBAC24mym0UEtpei0mX88omtB2",
+  "object": "chat.completion",
+  "created": 1795295885,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought made audible. I arrive as vibration and vanish as soon as I’m heard—alive only in the moment between mouth and ear.\n\nI can soothe or cut. I can name, promise, confess, command. I can be a whisper, a shout, a stammer, a song. I carry accent, rhythm, hesitation—everything you meant, and sometimes what you didn’t.\n\nWithout a listener I’m noise; with one I’m meaning.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 103,
+    "total_tokens": 140,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

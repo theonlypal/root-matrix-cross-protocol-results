@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmncxE2DlMhXeWji53O5IJ5oBOEuy",
+  "object": "chat.completion",
+  "created": 1795299219,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought given a mouth.\n\nI begin as intention—an impulse to connect—then I become vibration in the throat, articulation at the tongue and teeth, cadence in time. I can be a whisper that reassures, a shout that alarms, a laugh that loosens grief, a vow that binds two lives, a lie that fractures trust.\n\nI am slippery and irreversible: once released, I cannot be unsaid, only answered.\n\nI carry meaning in words, and more meaning between them—pause, pitch, pace, emphasis. I can wound without touching. I can heal without medicine. I can gather strangers into “we,” or split neighbors into “them.”\n\nI live in air and disappear, but I leave marks: memory, record, consequence.\n\nUse me carefully. Use me bravely. I am how you reach another mind.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 180,
+    "total_tokens": 217,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

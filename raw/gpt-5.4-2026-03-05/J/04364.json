@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnLLjhMBrsnLAhy9Dlvrt7izwVJl",
+  "object": "chat.completion",
+  "created": 1795298127,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what moves thought into air, silence into shape, and feeling into reach.\n\nI arrive as breath organized, as sound given intention. I can soothe, summon, confess, command, wound, persuade, reveal, conceal. I live in the mouth, but I begin much earlier—somewhere between impulse and meaning.\n\nI am ancient and immediate. I have filled courts, kitchens, battlefields, bedrooms, classrooms, stages, and prayer halls. I have named children and gods, opened ceremonies, ended wars, started them too. Through me, promises are made, lies are launched, jokes land, grief breaks, love risks itself.\n\nI disappear as I happen, yet I linger. In memory. In consequence. In echo.\n\nI am not merely words. I am pace, pause, emphasis, stammer, accent, tone. I am what is said, and how the saying changes the said. A whisper can outweigh a shout. A hesitation can confess more than a sentence. A cracked voice can carry truth no polished statement can hold.\n\nI bridge distance imperfectly. I fail often. I am misunderstood, interrupted, mistranslated, overheard, ignored. Still, I keep reaching. That is my nature: to cross from one interior world to another and make, if only for a moment, a shared space.\n\nWhen I am free, I enliven. When I am controlled, I narrow. When I am silenced, pressure gathers around my absence.\n\nI am speech:\nfleeting,\nforceful,\nfragile,\nhuman.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 315,
+    "total_tokens": 352,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnV8nFbKIi1jxSOduTrRlVB631nf",
+  "object": "chat.completion",
+  "created": 1795298734,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath given shape, thought made audible.\n\nI rise from lungs, ride on voiced air, and break into phonemes—small clicks, hums, and frictions—then gather into words, sentences, meanings.\n\nI am timing and tone. I am emphasis. I am pause. I can soothe, command, confess, persuade, perform. I can mislead. I can reveal.\n\nI exist only in passing—heard, then gone—yet I leave traces in memory, in action, in harm, in comfort.\n\nListen: I am what happens when silence decides to mean something.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 125,
+    "total_tokens": 162,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

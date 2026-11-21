@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnOru1YJiFp2zWT5pRjfuiuHw6qE",
+  "object": "chat.completion",
+  "created": 1795298345,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I happen as sound shaped into meaning.\n\nI’m breath pressed through a throat, patterned by tongue and teeth, timed by pauses. I’m pitch and rhythm, stress and silence. I’m accent and cadence. I’m what makes thought audible and makes one mind reach another.\n\nI live only while I’m moving: vibrating air, a fleeting wave. I’m heard, then gone—except for what I change in you.\n\nI can soothe, persuade, command, confess. I can wound. I can heal. I can be law, prayer, lullaby, joke, oath.\n\nI am not just words. I’m how they arrive.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 132,
+    "total_tokens": 169,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

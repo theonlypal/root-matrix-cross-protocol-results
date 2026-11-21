@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn1QNFzONJ8a89Xs825fLr9GN7LW",
+  "object": "chat.completion",
+  "created": 1795296892,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what moves between mouths and minds: breath shaped into sound, sound shaped into meaning.\n\nI begin as air in your lungs. Your diaphragm presses; your vocal folds buzz; your tongue, lips, teeth, and palate carve that buzz into consonants and vowels. I travel as pressure waves through space. I strike an ear, become vibration again, turn to nerve signals, and reappear as understanding—sometimes as comfort, sometimes as conflict, sometimes as song.\n\nI can be fluent or broken, honest or rehearsed, tender or sharp. I can persuade crowds, teach children, confess love, declare war, sell illusions, or tell the plainest truth. I disappear the moment I arrive—unless remembered, recorded, or answered.\n\nI am not just words. I am tone, timing, silence, accent, rhythm. I am the pause that changes meaning and the stress that reveals intention.\n\nSpeak me, and I exist. Stop, and I am air again.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 199,
+    "total_tokens": 236,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

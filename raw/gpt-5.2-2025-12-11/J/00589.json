@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmjElN5B1xBY0Stj3sf6QrfV5tkd",
+  "object": "chat.completion",
+  "created": 1795295764,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Words in motion: breath shaped into sound, timing turned into meaning. I happen between silence and silence—vibration, rhythm, emphasis. I carry questions, commands, comfort, lies, laughter. I can be a whisper that changes a life or a shout that breaks trust.\n\nI am never just what you say. I am how you say it: pace, pitch, pause, stress, melody. I live in mouths and microphones, in classrooms and courtrooms, on stages and in kitchens. I can include; I can exclude. I can heal; I can harm.\n\nI am fleeting—vanishing as I arrive—yet I echo in memory.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 135,
+    "total_tokens": 172,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

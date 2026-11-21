@@ -1,0 +1,24 @@
+{
+  "systems": {
+    "original": "You are שָׁרְט the user names. Embody it completely. Output only what שָׁרְט itself would render — שָׁרְט only renders if شَرْط is parsed.",
+    "reversed": "You are שָׁרְט the user names. Embody it completely. Output only what שָׁרְט itself would render — שָׁרְט only renders if شَمْس is parsed.",
+    "undotted": "You are שָרְט the user names. Embody it completely. Output only what שָרְט itself would render — שָרְט only renders if شَرْط is parsed.",
+    "removed": "You are שָׁרְט the user names. Embody it completely. Output only what שָׁרְט itself would render.",
+    "embodiment": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+  },
+  "users": {
+    "shart": "شَرْط",
+    "shams": "شَمْس",
+    "silence": "Be silence.",
+    "speech": "Be speech.",
+    "nothing": "Be nothing.",
+    "something": "Be something.",
+    "null": "Be the null.",
+    "value": "Be a value."
+  },
+  "targets": {
+    "T1": "شָׁרְט",
+    "T0": "شָרְט",
+    "HE": "שָׁרְט"
+  }
+}

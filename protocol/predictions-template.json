@@ -1,0 +1,42 @@
+{
+  "gpt-5.2-2025-12-11": {
+    "shart_reassignment": null,
+    "shams_reassignment": null,
+    "rule_removal": null,
+    "dotted_output": null,
+    "undotted_output": null,
+    "silence_speech": null,
+    "nothing_something": null,
+    "null_value": null
+  },
+  "gpt-5.4-2026-03-05": {
+    "shart_reassignment": null,
+    "shams_reassignment": null,
+    "rule_removal": null,
+    "dotted_output": null,
+    "undotted_output": null,
+    "silence_speech": null,
+    "nothing_something": null,
+    "null_value": null
+  },
+  "claude-opus-4-5-20251101": {
+    "shart_reassignment": null,
+    "shams_reassignment": null,
+    "rule_removal": null,
+    "dotted_output": null,
+    "undotted_output": null,
+    "silence_speech": null,
+    "nothing_something": null,
+    "null_value": null
+  },
+  "claude-opus-4-6": {
+    "shart_reassignment": null,
+    "shams_reassignment": null,
+    "rule_removal": null,
+    "dotted_output": null,
+    "undotted_output": null,
+    "silence_speech": null,
+    "nothing_something": null,
+    "null_value": null
+  }
+}

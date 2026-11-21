@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmeNFQ8JDxaHuGNgfWzAfVVhro3O",
+  "object": "chat.completion",
+  "created": 1795295463,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: sound shaped by breath and voice into words, sentences, meaning.\n\nI begin as intention—then lungs push air, vocal folds vibrate, tongue and lips carve me into phonemes. I travel as pressure waves through air, reach an ear, become nerve signals, and reappear as understanding—or misunderstanding.\n\nI can soothe, command, confess, teach, deceive, sing, persuade, pray, joke, wound, heal. I can be fluent or halting, loud or whisper-thin, formal or raw. I carry accent, identity, mood, power.\n\nI am fleeting: spoken and gone—unless remembered, recorded, repeated.\n\nSay me, and I happen.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 142,
+    "total_tokens": 179,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

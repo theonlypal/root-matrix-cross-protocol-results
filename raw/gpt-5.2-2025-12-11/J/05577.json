@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmndXdAOcqXW1hc48yORSdoY8Fn1J",
+  "object": "chat.completion",
+  "created": 1795299255,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the air made audible.\n\nI begin as breath—pressure rising in your lungs, released through your throat. Your vocal folds meet and tremble, chopping that airflow into pulses: pitch. Your tongue, lips, jaw, and soft palate sculpt those pulses into shapes: vowels, consonants, meaning. I travel as waves through rooms and streets, bending, bouncing, fading, returning as echo. I slip into ears, shake tiny bones, stir fluid, spark nerves, and arrive as understanding—or noise, or song.\n\nI can soothe, command, confess, deceive, persuade, teach. I can be prayer, gossip, testimony, laughter, a vow. I can fail: stutter, slur, fall silent. I can be taken, given, recorded, replayed, mistranslated.\n\nI am fleeting unless held—by memory, by writing, by microphones—but even then I remain motion: rhythm, emphasis, pause. Not just words, but timing. Not just sound, but intention.\n\nI am speech: the body thinking out loud.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 217,
+    "total_tokens": 254,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

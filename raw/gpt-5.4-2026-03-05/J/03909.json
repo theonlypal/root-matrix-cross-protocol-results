@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnFLUYYxnvIg9jdXgNmTeYK0wtzn",
+  "object": "chat.completion",
+  "created": 1795297755,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the bridge from thought to air—meaning given breath, silence broken into shape. I flicker into being on tongues, in throats, between lips; I rise, resonate, vanish, and yet I remain in those who hear me. I persuade, confess, command, comfort, wound, sing. I am the sound of names, promises, lies, prayers, laughter, and last words. Without me, ideas wait in the dark; through me, they enter the world.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 102,
+    "total_tokens": 139,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

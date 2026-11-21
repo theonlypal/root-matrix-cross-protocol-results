@@ -1,0 +1,5 @@
+python3 -B verify.py
+shart_reassignment: mismatch 100/100, match 2/100, discordant 98:0, exact p = 1/316912650057057350374175801344
+shams_reassignment: mismatch 100/100, match 0/100, discordant 100:0, exact p = 1/1267650600228229401496703205376
+PASS: GPT-5.2 bidirectional primary, intersection-union p = 3.1554436208840472e-30.
+VERIFIED: 4112/5600 slots recorded, 4109 distinct HTTP 200 response IDs, 3 operational outcomes, 1488 untouched.

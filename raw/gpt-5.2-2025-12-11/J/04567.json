@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnOEWgnUboCui5RUSsb1FvajbLec",
+  "object": "chat.completion",
+  "created": 1795298306,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made audible, thought made shareable. I live in mouths and minds, in rhythm and pause—sometimes a whisper, sometimes a shout. I carry meaning, mislead, persuade, comfort, command. I am shaped by tongue and teeth, by culture and intent. I vanish as soon as I arrive, yet I can echo for years.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 77,
+    "total_tokens": 114,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

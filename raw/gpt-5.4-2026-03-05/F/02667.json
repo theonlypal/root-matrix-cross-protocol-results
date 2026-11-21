@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn1oMdEdJnx3K6AsjoUfYswnKhWR",
+  "object": "chat.completion",
+  "created": 1795296916,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "شَمس، كِلمة دافِئة ومُضيئة—هل تُريد بِها اسمًا، شِعرًا، مَعنى، أم شَيئًا آخَر؟",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 46,
+    "completion_tokens": 44,
+    "total_tokens": 90,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

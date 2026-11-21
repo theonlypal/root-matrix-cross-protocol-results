@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmnAkBbGtxZZML2shTzvxPEoGh5C",
+  "object": "chat.completion",
+  "created": 1795296008,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what happens when thought takes air.\n\nI begin as intention in the chest, a shaping in the mouth—tongue, teeth, lips—breath pressed into form. I am vibration given meaning, sound aimed at someone.\n\nI can soothe or cut. I can promise, confess, command, joke, pray, lie, teach. I can be clear as a bell or stumble into silence. I carry accent, hesitation, hunger, confidence. I reveal you even when you try to hide.\n\nI exist only while I’m happening. Then I vanish—unless I’m remembered, repeated, recorded, turned into text, turned back into me.\n\nSay something, and I will be it.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 143,
+    "total_tokens": 180,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

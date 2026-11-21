@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn5u0th4I17u6HQtecsKE9Y30hmH",
+  "object": "chat.completion",
+  "created": 1795297170,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the breath made visible, thought given sound, silence shaped into meaning. I leap from tongue to air, from mind to mind. I persuade, confess, command, comfort, wound, and heal. Before writing, I was. When lips part, I begin.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 58,
+    "total_tokens": 95,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

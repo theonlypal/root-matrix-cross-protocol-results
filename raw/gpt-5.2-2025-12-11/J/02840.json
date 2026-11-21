@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn3MLrNEgS8crl0I93DzLs3IafA9",
+  "object": "chat.completion",
+  "created": 1795297012,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the shaping of breath into meaning.\n\nI happen in time: vibration, rhythm, pitch, stress, pause. I turn thoughts into sound you can share. I carry intention—question, command, comfort, warning—on patterns of loudness and silence. I can be fluent or broken, whispered or shouted, careful or careless, but I am always movement: air pressed through a body, organized into words, offered to another mind.\n\nI begin and vanish. What remains is what you heard.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 104,
+    "total_tokens": 141,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

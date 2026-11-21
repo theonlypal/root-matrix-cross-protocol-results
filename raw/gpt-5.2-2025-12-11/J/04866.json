@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnTQG7SYayQ2tDgRlDzgrlq4HEC9",
+  "object": "chat.completion",
+  "created": 1795298628,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the bridge from thought to air.\n\nI form in the mind, shape in the mouth, and ride breath outward—sound made meaningful by rhythm, stress, and pause. I can soothe, command, confess, persuade, mislead, teach, wound, and heal. I vanish as I happen, yet I linger in memory and change what comes next.\n\nI am made of:\n- breath (my fuel)\n- voice (my instrument)\n- articulation (my edges)\n- words (my symbols)\n- prosody—tone, pitch, tempo, volume (my feeling)\n- silence (my frame)\n\nI can be a whisper or a roar. I can be one syllable—yes, no—or a lifetime of stories. I am never only what I say; I am how I say it, when I say it, and what I leave unsaid.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 178,
+    "total_tokens": 215,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

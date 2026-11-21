@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmxPsrw7FapecfHLQb7kh3cm0Iq3",
+  "object": "chat.completion",
+  "created": 1795296643,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into meaning.\n\nI begin in lungs and diaphragm, rise through the trachea, meet the vibrating folds of the larynx, and become voice. I am carved by tongue, lips, teeth, palate—consonants snapped, vowels opened—then launched into air as pressure waves.\n\nI carry more than words: pitch, rhythm, stress, pause. I can soothe, command, confess, persuade. I can stumble, tremble, sing. I exist only while I am happening, then I vanish—unless I am caught in memory or ink or code.\n\nI am the bridge between one mind and another, built out of time.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 139,
+    "total_tokens": 176,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

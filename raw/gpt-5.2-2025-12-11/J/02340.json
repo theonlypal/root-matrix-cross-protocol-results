@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmz0bGdABP7GZmqmERGuURz8i7c5",
+  "object": "chat.completion",
+  "created": 1795296742,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, sound shaped into meaning, meaning shaped into you.\n\nI live in lungs and larynx, tongue and teeth, lips and palate. I ride vibration through air, bone, wire, and wave. I am accent, cadence, pause—what you say and how you dare to say it.\n\nI can soothe or scorch. I can summon crowds, confess love, start wars, end them. I can be law, prayer, joke, lullaby, threat, apology.\n\nI am fleeting: here, then gone—unless caught in ink or silicon, replayed as a ghost of a moment.\n\nI begin as intent, I become a syllable, I land as consequence.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 148,
+    "total_tokens": 185,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

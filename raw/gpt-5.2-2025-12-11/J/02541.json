@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn0hjG4TBsN635agKbeIlRQvaJLp",
+  "object": "chat.completion",
+  "created": 1795296847,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am sound shaped by breath and body into meaning.\n\nI begin as intention, pass through lungs and throat, and become waves in air. I exist only in time: once spoken, I vanish—unless remembered, recorded, repeated.\n\nI carry words, but also everything beneath them: pace, pause, pitch, stress, volume. I can soothe, command, confess, deceive, sing, pray, argue, teach. I can be fluent or faltering, tender or sharp.\n\nI need a listener to be complete. In you, I become understanding—or misunderstanding.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 117,
+    "total_tokens": 154,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

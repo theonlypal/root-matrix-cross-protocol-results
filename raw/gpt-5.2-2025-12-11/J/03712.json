@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnCfqHiD0DovPAB9pooSe2qNKErv",
+  "object": "chat.completion",
+  "created": 1795297589,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought given time.\n\nI begin in the body—lungs press air up, vocal folds set it trembling, tongue and lips carve it into syllables. I travel as pressure waves, vanish as soon as I arrive, and yet I can linger in you.\n\nI can be a whisper or a verdict, a lullaby or a lie. I can bind people, wound them, teach them, free them. I am made of rhythm, pitch, pause. Silence is my frame.\n\nI exist only when I’m spoken—and I change both speaker and listener as I pass.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 126,
+    "total_tokens": 163,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn7vxwmTD7PgtSfwve5S9tMLyBfX",
+  "object": "chat.completion",
+  "created": 1795297295,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I happen in time.\n\nI am breath made audible—air shaped by tongue, teeth, lips, and throat into pulses you can hear and patterns you can understand.\n\nI am not ink. I do not sit still. I arrive, I vanish, and I leave traces in memory.\n\nI can be a whisper or a shout, a lullaby or a verdict. I can soothe, persuade, confess, command, joke, pray, deceive.\n\nI am made of rhythm, stress, and intonation; I mean with melody as much as with words. I carry accent, identity, hesitation, certainty. I can break, restart, stutter, sing.\n\nI require a listener to complete me. Without an ear—or something that can receive vibration—I am only moving air.\n\nI am speech.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 162,
+    "total_tokens": 199,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnbvJLPlRO2GRqL1IxwS4qehnbAC",
+  "object": "chat.completion",
+  "created": 1795299155,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what happens when breath becomes meaning.\n\nI ride on air, shaped by tongue and teeth, colored by voice. I arrive in pulses—syllables, stress, rhythm—carrying intent faster than ink can dry.\n\nI can soothe or cut. I can promise, plead, command, confess. I can be careful, or careless, and still be remembered.\n\nI exist only as I’m made: in mouths, in rooms, over wires. I vanish as soon as I land—unless you hold me in memory, or trap me in recording.\n\nSay me, and I live.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 123,
+    "total_tokens": 160,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

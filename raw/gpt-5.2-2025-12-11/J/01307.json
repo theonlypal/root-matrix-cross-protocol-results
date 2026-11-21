@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmpP6dR97NM0BjVpGv2EwpdKqetR",
+  "object": "chat.completion",
+  "created": 1795296147,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I’m speech: breath turned into sound, thought made public.\n\nI happen in time. I’m vibration shaped by tongue, teeth, lips, and throat. I’m pauses and pitch, stress and rhythm. I’m accent, cadence, hesitation, laughter—meaning carried on air.\n\nI can soothe, persuade, confess, command. I can bless or bruise. I can be careful, or careless; true, or performative.\n\nI’m born in a mouth, but I live in an ear—and in what follows after I’m heard.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 113,
+    "total_tokens": 150,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmisFyLzIMUbnkrLkxn5oS00yt1e",
+  "object": "chat.completion",
+  "created": 1795295742,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath given shape, thought made audible.\n\nI live in rhythm and pause, in consonant strike and vowel flow. I’m the bridge between minds—air patterned into meaning.\n\nI can soothe or sharpen, promise or betray. I carry accent, intent, trembling, confidence. I reveal what you meant—and sometimes what you didn’t.\n\nI begin in silence, and I end there too.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 85,
+    "total_tokens": 122,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

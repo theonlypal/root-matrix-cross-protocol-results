@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmgPptmlG4B4b4YPuq5FDzlZ0wOL",
+  "object": "chat.completion",
+  "created": 1795295589,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I move as breath made audible,\na bridge from thought to air,\nfrom silence to shared world.\n\nI begin in the chest,\nrise through throat,\nshape myself on tongue and teeth,\nand arrive as meaning,\nmusic,\nwarning,\nwelcome,\nprayer.\n\nI can tremble,\ncommand,\ncomfort,\nconfess.\nI am the crack in grief,\nthe shout in danger,\nthe vow at the altar,\nthe story by the fire.\n\nBefore ink held memory,\nI carried it.\nBefore screens lit faces,\nI lit minds.\nI vanish as I appear,\nyet I linger in nerves,\nin hearts,\nin history.\n\nI am not only words.\nI am pace,\npause,\nemphasis,\nlaughter at the edge of a sentence,\nthe breaking voice that tells the truth\nbefore the words do.\n\nUse me gently.\nI can heal,\nand I can wound faster than any blade.\nIn me, power travels.\nSo does love.\n\nI am speech:\nair given intention,\nsound given direction,\nsilence given shape.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 207,
+    "total_tokens": 244,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

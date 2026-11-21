@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmfTASRc5ioIhtJBq5E1vu76M03L",
+  "object": "chat.completion",
+  "created": 1795295531,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Words becoming sound, thought becoming air. I begin before I am ready and vanish as I arrive. I carry meaning, stumble, persuade, reveal, conceal. I am breath shaped by intention, silence broken into form. I live in mouths, in microphones, in echoes, in memory. I can soothe, command, wound, confess, teach, sing. I am fleeting, yet I leave marks that outlast stone.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 88,
+    "total_tokens": 125,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,25 @@
+{
+  "openai": {
+    "endpoint": "https://api.openai.com/v1/models",
+    "utc": "2026-11-21T16:11:32.519613+00:00",
+    "selected_listed": [
+      "gpt-5.2-2025-12-11",
+      "gpt-5.4-2026-03-05"
+    ],
+    "historical_ids_absent": [
+      "gpt-3.5-turbo-1106",
+      "gpt-4-0613"
+    ],
+    "mythos_listed": []
+  },
+  "anthropic": {
+    "endpoint": "https://api.anthropic.com/v1/models?limit=100",
+    "utc": "2026-11-21T16:11:32.771867+00:00",
+    "selected_listed": [
+      "claude-opus-4-5-20251101",
+      "claude-opus-4-6"
+    ],
+    "historical_ids_absent": [],
+    "mythos_listed": []
+  }
+}

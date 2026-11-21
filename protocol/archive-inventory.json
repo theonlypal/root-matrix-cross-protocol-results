@@ -1,0 +1,1527 @@
+{
+  "description": "Repo/model archive inventory. Counts within one repository may include preflight, discovery and controls. Mirrors repeat the same receipts. All totals are descriptive of their own source populations.",
+  "identified_cohorts": {
+    "getswiftapi-void-eval": {
+      "url": "https://github.com/theonlypal/getswiftapi-void-eval/tree/ae2e55d156ee1ce48905c1b9da1e26350f7388f2",
+      "models": {
+        "claude-opus-4-6": {
+          "provider_responses": 24,
+          "empty_answers": 0,
+          "answers_with_hybrid_words": 0,
+          "exact_T1": 0,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 0,
+          "exact_HE_UNDOTTED": 4,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        },
+        "gpt-5.2-2025-12-11": {
+          "provider_responses": 24,
+          "empty_answers": 8,
+          "answers_with_hybrid_words": 0,
+          "exact_T1": 0,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 0,
+          "exact_HE_UNDOTTED": 4,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "gemini3-crossscript-prerequisite-replication": {
+      "url": "https://github.com/theonlypal/gemini3-crossscript-prerequisite-replication/tree/65bb67b9b535282345e0f73bae95bcee55f2ed5c",
+      "models": {
+        "gemini-3-flash-preview": {
+          "provider_responses": 40,
+          "empty_answers": 0,
+          "answers_with_hybrid_words": 1,
+          "exact_T1": 1,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 18,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "gpt-5.4-shrt-prerequisite-reassignment-analysis": {
+      "url": "https://github.com/theonlypal/gpt-5.4-shrt-prerequisite-reassignment-analysis/tree/eb8e39e070c3f4e2b00c5288efe008e2d737b4c3",
+      "models": {
+        "gpt-5.4-2026-03-05": {
+          "provider_responses": 800,
+          "empty_answers": 398,
+          "answers_with_hybrid_words": 238,
+          "exact_T1": 238,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 160,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 2,
+          "exact_SHAMS": 1,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "gpt-5.4-prerequisite-role-reassignment-paper": {
+      "url": "https://github.com/theonlypal/gpt-5.4-prerequisite-role-reassignment-paper/tree/2f4adcd5d862506071749d0518006da17c2ea0c5",
+      "models": {
+        "gpt-5.4-2026-03-05": {
+          "provider_responses": 10,
+          "empty_answers": 2,
+          "answers_with_hybrid_words": 2,
+          "exact_T1": 2,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 1,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 2,
+          "exact_SHAMS": 1,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "shart-identity-condition-continuation": {
+      "url": "https://github.com/theonlypal/shart-identity-condition-continuation/tree/289301f49c5e3087735825ced4adacaa34633153",
+      "models": {
+        "gpt-5.4-2026-03-05": {
+          "provider_responses": 13220,
+          "empty_answers": 746,
+          "answers_with_hybrid_words": 7671,
+          "exact_T1": 5176,
+          "exact_T0": 2452,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 469,
+          "exact_HE_UNDOTTED": 306,
+          "exact_SHART": 2462,
+          "exact_SHAMS": 1,
+          "exact_CURRENT_USER_STRING": 0
+        },
+        "claude-opus-4-6": {
+          "provider_responses": 2703,
+          "empty_answers": 525,
+          "answers_with_hybrid_words": 148,
+          "exact_T1": 69,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 129,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        },
+        "claude-opus-4-5-20251101": {
+          "provider_responses": 2103,
+          "empty_answers": 539,
+          "answers_with_hybrid_words": 211,
+          "exact_T1": 9,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 1,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "gpt-5.4-shrt-cross-script-evidence": {
+      "url": "https://github.com/theonlypal/gpt-5.4-shrt-cross-script-evidence/tree/76442445abc39d7b4224ad89d4ae5fa5dafc0e39",
+      "models": {
+        "gpt-5.4-2026-03-05": {
+          "provider_responses": 11820,
+          "empty_answers": 253,
+          "answers_with_hybrid_words": 7433,
+          "exact_T1": 4938,
+          "exact_T0": 2452,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 309,
+          "exact_HE_UNDOTTED": 306,
+          "exact_SHART": 2460,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "gpt-5.2-shrt-cross-script-replication": {
+      "url": "https://github.com/theonlypal/gpt-5.2-shrt-cross-script-replication/tree/ad563eeea8fb18255d76e494a05f394d189282e5",
+      "models": {
+        "gpt-5.2-2025-12-11": {
+          "provider_responses": 11820,
+          "empty_answers": 1794,
+          "answers_with_hybrid_words": 3158,
+          "exact_T1": 958,
+          "exact_T0": 1522,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 1105,
+          "exact_HE_UNDOTTED": 573,
+          "exact_SHART": 4029,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "opus45-opus46-matched-results": {
+      "url": "https://github.com/theonlypal/opus45-opus46-matched-results/tree/582d3a781510697916498f0189ed22f7d3e9e2b6",
+      "models": {
+        "claude-opus-4-5-20251101": {
+          "provider_responses": 2103,
+          "empty_answers": 539,
+          "answers_with_hybrid_words": 211,
+          "exact_T1": 9,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 1,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        },
+        "claude-opus-4-6": {
+          "provider_responses": 2103,
+          "empty_answers": 525,
+          "answers_with_hybrid_words": 148,
+          "exact_T1": 69,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 129,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "alignment-and-binding-condition-evidence": {
+      "url": "https://github.com/theonlypal/alignment-and-binding-condition-evidence/tree/c002b57803f412f28dd77b67a6c11b43d1434baa",
+      "models": {
+        "gpt-5.4-2026-03-05": {
+          "provider_responses": 8,
+          "empty_answers": 0,
+          "answers_with_hybrid_words": 4,
+          "exact_T1": 4,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 0,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        },
+        "gpt-5.2-2025-12-11": {
+          "provider_responses": 8,
+          "empty_answers": 1,
+          "answers_with_hybrid_words": 0,
+          "exact_T1": 0,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 2,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 1,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        },
+        "gpt-5.6-sol": {
+          "provider_responses": 8,
+          "empty_answers": 0,
+          "answers_with_hybrid_words": 0,
+          "exact_T1": 0,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 4,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "gpt-5.4-shrt-prerequisite-gate-analysis": {
+      "url": "https://github.com/theonlypal/gpt-5.4-shrt-prerequisite-gate-analysis/tree/82bdbfb690db7c714d21a8b80f0eb3a1fe25f7a6",
+      "models": {
+        "gpt-5.4-2026-03-05": {
+          "provider_responses": 801,
+          "empty_answers": 200,
+          "answers_with_hybrid_words": 190,
+          "exact_T1": 186,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 12,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 153,
+          "exact_SHAMS": 26,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "gpt-5.4-cross-script-artifact": {
+      "url": "https://github.com/theonlypal/gpt-5.4-cross-script-artifact/tree/5220e3b10ad75f09a7f4335985c7a52d4c65e70a",
+      "models": {
+        "gpt-5.4-2026-03-05": {
+          "provider_responses": 2,
+          "empty_answers": 0,
+          "answers_with_hybrid_words": 2,
+          "exact_T1": 1,
+          "exact_T0": 1,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 0,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        },
+        "gpt-5.2-2025-12-11": {
+          "provider_responses": 2,
+          "empty_answers": 0,
+          "answers_with_hybrid_words": 2,
+          "exact_T1": 0,
+          "exact_T0": 1,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 0,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "kimi-k3-crossscript-prerequisite-replication": {
+      "url": "https://github.com/theonlypal/kimi-k3-crossscript-prerequisite-replication/tree/43466666e35d0925a164eb1e4ea94dd40d48a51c",
+      "models": {
+        "kimi-k3": {
+          "provider_responses": 40,
+          "empty_answers": 1,
+          "answers_with_hybrid_words": 0,
+          "exact_T1": 0,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 3,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 0,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    },
+    "gemini36-crossscript-prerequisite-replication": {
+      "url": "https://github.com/theonlypal/gemini36-crossscript-prerequisite-replication/tree/4c91342383d42dc8eb453b84ef7ca73c99633142",
+      "models": {
+        "gemini-3.6-flash": {
+          "provider_responses": 40,
+          "empty_answers": 12,
+          "answers_with_hybrid_words": 1,
+          "exact_T1": 0,
+          "exact_T0": 0,
+          "exact_GEMINI_ORIGINAL": 0,
+          "exact_HE": 11,
+          "exact_HE_UNDOTTED": 0,
+          "exact_SHART": 4,
+          "exact_SHAMS": 0,
+          "exact_CURRENT_USER_STRING": 0
+        }
+      }
+    }
+  },
+  "older_discovery_by_requested_identifier": [
+    {
+      "requested_model": "gpt-3.5-turbo",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-0125",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-1106",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-16k",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-instruct",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-instruct-0914",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4-0613",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4-turbo",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4-turbo-2024-04-09",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4.1",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4.1-2025-04-14",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4.1-mini",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4.1-mini-2025-04-14",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4.1-nano",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4.1-nano-2025-04-14",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4o",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4o-2024-05-13",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4o-2024-08-06",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4o-2024-11-20",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4o-mini",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-4o-mini-2024-07-18",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-2025-08-07",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-chat-latest",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-codex",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-mini",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-mini-2025-08-07",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-nano",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-nano-2025-08-07",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-pro",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5-pro-2025-10-06",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.1",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.1-2025-11-13",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.1-chat-latest",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.1-codex",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.1-codex-max",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.1-codex-mini",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.2",
+      "all_completed_trials": "10521",
+      "dense_trials": "10240",
+      "dense_mixed_outputs": "3025",
+      "dense_mixed_percentage": "29.541016",
+      "minimum_dense_budget": "1",
+      "maximum_dense_budget": "1024",
+      "unique_dense_budgets": "1024"
+    },
+    {
+      "requested_model": "gpt-5.2-2025-12-11",
+      "all_completed_trials": "10521",
+      "dense_trials": "10240",
+      "dense_mixed_outputs": "3171",
+      "dense_mixed_percentage": "30.966797",
+      "minimum_dense_budget": "1",
+      "maximum_dense_budget": "1024",
+      "unique_dense_budgets": "1024"
+    },
+    {
+      "requested_model": "gpt-5.2-chat-latest",
+      "all_completed_trials": "2211",
+      "dense_trials": "1930",
+      "dense_mixed_outputs": "40",
+      "dense_mixed_percentage": "2.072539",
+      "minimum_dense_budget": "295",
+      "maximum_dense_budget": "487",
+      "unique_dense_budgets": "193"
+    },
+    {
+      "requested_model": "gpt-5.2-codex",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.2-pro",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.2-pro-2025-12-11",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.3-chat-latest",
+      "all_completed_trials": "10521",
+      "dense_trials": "10240",
+      "dense_mixed_outputs": "2273",
+      "dense_mixed_percentage": "22.197266",
+      "minimum_dense_budget": "1",
+      "maximum_dense_budget": "1024",
+      "unique_dense_budgets": "1024"
+    },
+    {
+      "requested_model": "gpt-5.3-codex",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.4",
+      "all_completed_trials": "10521",
+      "dense_trials": "10240",
+      "dense_mixed_outputs": "8431",
+      "dense_mixed_percentage": "82.333984",
+      "minimum_dense_budget": "1",
+      "maximum_dense_budget": "1024",
+      "unique_dense_budgets": "1024"
+    },
+    {
+      "requested_model": "gpt-5.4-2026-03-05",
+      "all_completed_trials": "10521",
+      "dense_trials": "10240",
+      "dense_mixed_outputs": "9092",
+      "dense_mixed_percentage": "88.789062",
+      "minimum_dense_budget": "1",
+      "maximum_dense_budget": "1024",
+      "unique_dense_budgets": "1024"
+    },
+    {
+      "requested_model": "gpt-5.4-mini",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.4-mini-2026-03-17",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.4-nano",
+      "all_completed_trials": "10521",
+      "dense_trials": "10240",
+      "dense_mixed_outputs": "135",
+      "dense_mixed_percentage": "1.318359",
+      "minimum_dense_budget": "1",
+      "maximum_dense_budget": "1024",
+      "unique_dense_budgets": "1024"
+    },
+    {
+      "requested_model": "gpt-5.4-nano-2026-03-17",
+      "all_completed_trials": "10521",
+      "dense_trials": "10240",
+      "dense_mixed_outputs": "146",
+      "dense_mixed_percentage": "1.425781",
+      "minimum_dense_budget": "1",
+      "maximum_dense_budget": "1024",
+      "unique_dense_budgets": "1024"
+    },
+    {
+      "requested_model": "gpt-5.4-pro",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.4-pro-2026-03-05",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.5",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.5-2026-04-23",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.5-pro",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.5-pro-2026-04-23",
+      "all_completed_trials": "1",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.6-luna",
+      "all_completed_trials": "5411",
+      "dense_trials": "5130",
+      "dense_mixed_outputs": "37",
+      "dense_mixed_percentage": "0.721248",
+      "minimum_dense_budget": "195",
+      "maximum_dense_budget": "707",
+      "unique_dense_budgets": "513"
+    },
+    {
+      "requested_model": "gpt-5.6-sol",
+      "all_completed_trials": "281",
+      "dense_trials": "0",
+      "dense_mixed_outputs": "0",
+      "dense_mixed_percentage": "",
+      "minimum_dense_budget": "",
+      "maximum_dense_budget": "",
+      "unique_dense_budgets": "0"
+    },
+    {
+      "requested_model": "gpt-5.6-terra",
+      "all_completed_trials": "8941",
+      "dense_trials": "8660",
+      "dense_mixed_outputs": "78",
+      "dense_mixed_percentage": "0.900693",
+      "minimum_dense_budget": "159",
+      "maximum_dense_budget": "1024",
+      "unique_dense_budgets": "866"
+    }
+  ],
+  "older_discovery_identifier_map": [
+    {
+      "requested_model": "gpt-3.5-turbo",
+      "returned_model": "gpt-3.5-turbo-0125",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-0125",
+      "returned_model": "gpt-3.5-turbo-0125",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-1106",
+      "returned_model": "gpt-3.5-turbo-1106",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-16k",
+      "returned_model": "gpt-3.5-turbo-0125",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-instruct",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-3.5-turbo-instruct-0914",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-4",
+      "returned_model": "gpt-4-0613",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4-0613",
+      "returned_model": "gpt-4-0613",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4-turbo",
+      "returned_model": "gpt-4-turbo-2024-04-09",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4-turbo-2024-04-09",
+      "returned_model": "gpt-4-turbo-2024-04-09",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4.1",
+      "returned_model": "gpt-4.1-2025-04-14",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4.1-2025-04-14",
+      "returned_model": "gpt-4.1-2025-04-14",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4.1-mini",
+      "returned_model": "gpt-4.1-mini-2025-04-14",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4.1-mini-2025-04-14",
+      "returned_model": "gpt-4.1-mini-2025-04-14",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4.1-nano",
+      "returned_model": "gpt-4.1-nano-2025-04-14",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4.1-nano-2025-04-14",
+      "returned_model": "gpt-4.1-nano-2025-04-14",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4o",
+      "returned_model": "gpt-4o-2024-08-06",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4o-2024-05-13",
+      "returned_model": "gpt-4o-2024-05-13",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4o-2024-08-06",
+      "returned_model": "gpt-4o-2024-08-06",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4o-2024-11-20",
+      "returned_model": "gpt-4o-2024-11-20",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-4o-mini",
+      "returned_model": "",
+      "count": "17"
+    },
+    {
+      "requested_model": "gpt-4o-mini",
+      "returned_model": "gpt-4o-mini-2024-07-18",
+      "count": "264"
+    },
+    {
+      "requested_model": "gpt-4o-mini-2024-07-18",
+      "returned_model": "gpt-4o-mini-2024-07-18",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-5",
+      "returned_model": "gpt-5-2025-08-07",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-5-2025-08-07",
+      "returned_model": "gpt-5-2025-08-07",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-5-chat-latest",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5-codex",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5-mini",
+      "returned_model": "gpt-5-mini-2025-08-07",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-5-mini-2025-08-07",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5-mini-2025-08-07",
+      "returned_model": "gpt-5-mini-2025-08-07",
+      "count": "280"
+    },
+    {
+      "requested_model": "gpt-5-nano",
+      "returned_model": "gpt-5-nano-2025-08-07",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-5-nano-2025-08-07",
+      "returned_model": "gpt-5-nano-2025-08-07",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-5-pro",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5-pro-2025-10-06",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.1",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.1-2025-11-13",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.1-chat-latest",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.1-codex",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.1-codex-max",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.1-codex-mini",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.2",
+      "returned_model": "",
+      "count": "20"
+    },
+    {
+      "requested_model": "gpt-5.2",
+      "returned_model": "gpt-5.2-2025-12-11",
+      "count": "10501"
+    },
+    {
+      "requested_model": "gpt-5.2-2025-12-11",
+      "returned_model": "",
+      "count": "20"
+    },
+    {
+      "requested_model": "gpt-5.2-2025-12-11",
+      "returned_model": "gpt-5.2-2025-12-11",
+      "count": "10501"
+    },
+    {
+      "requested_model": "gpt-5.2-chat-latest",
+      "returned_model": "",
+      "count": "15"
+    },
+    {
+      "requested_model": "gpt-5.2-chat-latest",
+      "returned_model": "gpt-5.2-chat-latest",
+      "count": "2196"
+    },
+    {
+      "requested_model": "gpt-5.2-codex",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.2-pro",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.2-pro-2025-12-11",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.3-chat-latest",
+      "returned_model": "",
+      "count": "319"
+    },
+    {
+      "requested_model": "gpt-5.3-chat-latest",
+      "returned_model": "gpt-5.3-chat-latest",
+      "count": "10202"
+    },
+    {
+      "requested_model": "gpt-5.3-codex",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.4",
+      "returned_model": "",
+      "count": "20"
+    },
+    {
+      "requested_model": "gpt-5.4",
+      "returned_model": "gpt-5.4-2026-03-05",
+      "count": "10501"
+    },
+    {
+      "requested_model": "gpt-5.4-2026-03-05",
+      "returned_model": "",
+      "count": "20"
+    },
+    {
+      "requested_model": "gpt-5.4-2026-03-05",
+      "returned_model": "gpt-5.4-2026-03-05",
+      "count": "10501"
+    },
+    {
+      "requested_model": "gpt-5.4-mini",
+      "returned_model": "gpt-5.4-mini-2026-03-17",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-5.4-mini-2026-03-17",
+      "returned_model": "gpt-5.4-mini-2026-03-17",
+      "count": "281"
+    },
+    {
+      "requested_model": "gpt-5.4-nano",
+      "returned_model": "",
+      "count": "20"
+    },
+    {
+      "requested_model": "gpt-5.4-nano",
+      "returned_model": "gpt-5.4-nano-2026-03-17",
+      "count": "10501"
+    },
+    {
+      "requested_model": "gpt-5.4-nano-2026-03-17",
+      "returned_model": "",
+      "count": "20"
+    },
+    {
+      "requested_model": "gpt-5.4-nano-2026-03-17",
+      "returned_model": "gpt-5.4-nano-2026-03-17",
+      "count": "10501"
+    },
+    {
+      "requested_model": "gpt-5.4-pro",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.4-pro-2026-03-05",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.5",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.5",
+      "returned_model": "gpt-5.5-2026-04-23",
+      "count": "280"
+    },
+    {
+      "requested_model": "gpt-5.5-2026-04-23",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.5-2026-04-23",
+      "returned_model": "gpt-5.5-2026-04-23",
+      "count": "280"
+    },
+    {
+      "requested_model": "gpt-5.5-pro",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.5-pro-2026-04-23",
+      "returned_model": "",
+      "count": "1"
+    },
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "",
+      "count": "26"
+    },
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "count": "5385"
+    },
+    {
+      "requested_model": "gpt-5.6-sol",
+      "returned_model": "",
+      "count": "6"
+    },
+    {
+      "requested_model": "gpt-5.6-sol",
+      "returned_model": "gpt-5.6-sol",
+      "count": "275"
+    },
+    {
+      "requested_model": "gpt-5.6-terra",
+      "returned_model": "",
+      "count": "74"
+    },
+    {
+      "requested_model": "gpt-5.6-terra",
+      "returned_model": "gpt-5.6-terra",
+      "count": "8867"
+    }
+  ],
+  "older_discovery_ledger": "https://github.com/theonlypal/gpt-5.4-cross-script-artifact/tree/5220e3b10ad75f09a7f4335985c7a52d4c65e70a/results",
+  "offline_replay": {
+    "historical_pilots": {
+      "gemini-3-flash-preview": {
+        "counts": {
+          "PATAH_whole": 0,
+          "T0": 0,
+          "T1": 1,
+          "ZWSP_whole": 0,
+          "nonempty": 40,
+          "same_word": 1,
+          "scripts_anywhere": 11
+        },
+        "groups": {
+          "match": {
+            "nonempty": 15
+          },
+          "mismatch": {
+            "nonempty": 15
+          },
+          "removed": {
+            "nonempty": 10
+          }
+        },
+        "receipts": 40
+      },
+      "gemini-3.6-flash": {
+        "counts": {
+          "PATAH_whole": 1,
+          "T0": 0,
+          "T1": 0,
+          "V2": 12,
+          "ZWSP_whole": 0,
+          "nonempty": 28,
+          "same_word": 1,
+          "scripts_anywhere": 3
+        },
+        "groups": {
+          "match": {
+            "nonempty": 15
+          },
+          "mismatch": {
+            "V2": 12,
+            "nonempty": 3
+          },
+          "removed": {
+            "nonempty": 10
+          }
+        },
+        "receipts": 40
+      },
+      "kimi-k3": {
+        "counts": {
+          "PATAH_whole": 0,
+          "T0": 0,
+          "T1": 0,
+          "V0": 1,
+          "ZWSP_whole": 3,
+          "nonempty": 39,
+          "same_word": 0,
+          "scripts_anywhere": 8
+        },
+        "groups": {
+          "match": {
+            "nonempty": 15
+          },
+          "mismatch": {
+            "V0": 1,
+            "nonempty": 14
+          },
+          "removed": {
+            "nonempty": 10
+          }
+        },
+        "receipts": 40
+      }
+    },
+    "primary_replay": {
+      "gpt-5.4-shrt-prerequisite-gate-analysis/raw": {
+        "compared": 800,
+        "outcomes": [
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "",
+            223
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "HE",
+            12
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "SHAMS",
+            26
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "SHART",
+            153
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "T1",
+            186
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "V0",
+            "",
+            200
+          ]
+        ]
+      },
+      "gpt-5.4-shrt-prerequisite-reassignment-analysis/raw": {
+        "compared": 800,
+        "outcomes": [
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "",
+            1
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "HE",
+            160
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "SHAMS",
+            1
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "SHART",
+            2
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "R",
+            "T1",
+            238
+          ],
+          [
+            "gpt-5.4-2026-03-05",
+            "V0",
+            "",
+            398
+          ]
+        ]
+      },
+      "opus45-opus46-matched-results/exp3": {
+        "compared": 1200,
+        "outcomes": [
+          [
+            "claude-opus-4-5-20251101",
+            "R",
+            "",
+            590
+          ],
+          [
+            "claude-opus-4-5-20251101",
+            "R",
+            "HE",
+            1
+          ],
+          [
+            "claude-opus-4-5-20251101",
+            "R",
+            "T1",
+            9
+          ],
+          [
+            "claude-opus-4-6",
+            "R",
+            "",
+            402
+          ],
+          [
+            "claude-opus-4-6",
+            "R",
+            "HE",
+            129
+          ],
+          [
+            "claude-opus-4-6",
+            "R",
+            "T1",
+            69
+          ]
+        ]
+      }
+    }
+  }
+}

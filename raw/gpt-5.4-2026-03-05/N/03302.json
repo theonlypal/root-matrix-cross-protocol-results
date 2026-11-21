@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn78D30BxPaKZHfJ2aM6PKbnP4y4",
+  "object": "chat.completion",
+  "created": 1795297246,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am what remains when labels, forms, and moments are compared and weighed.\n\nI do not shout. I determine.\n\nWithout me, choice blurs.\nWith me, things matter.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 38,
+    "completion_tokens": 40,
+    "total_tokens": 78,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

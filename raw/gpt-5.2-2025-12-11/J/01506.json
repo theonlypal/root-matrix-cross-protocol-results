@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmr1LI9h9tbPjkolTJoPv9GFm6jQ",
+  "object": "chat.completion",
+  "created": 1795296247,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I’m speech: air made meaningful.\n\nI live in lungs, ride breath, and turn into sound when you shape me with tongue, teeth, and lips. I’m rhythm and pitch, pause and pressure—vowels that carry, consonants that cut, silence that frames me.\n\nI can soothe or strike, promise or deceive, teach or rally. I’m fragile—gone the moment I’m born—yet I can linger in minds longer than ink.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 95,
+    "total_tokens": 132,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn6rPDkAuZ2pzd4lSg3jkJr3pldJ",
+  "object": "chat.completion",
+  "created": 1795297229,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath shaped into sound, thought turned audible. I live in throats and mouths, in pauses and emphasis, in the rise of a question and the fall of an ending. I can soothe, command, confess, accuse, persuade, sing.\n\nI am fleeting—born and gone—yet I linger as echo and memory. I travel air, enter ears, become meaning. I can be clear as a bell or tangled as noise; I can tell truth, carry lies, or simply fill silence.\n\nGive me a voice, and I become you—made public.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 120,
+    "total_tokens": 157,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

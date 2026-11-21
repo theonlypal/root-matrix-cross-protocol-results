@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn90XH8kjVdhnIbXLDDIljcgAs5i",
+  "object": "chat.completion",
+  "created": 1795297362,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I happen as breath made meaning.\nI break silence into shape.\nI arrive in pulses, vowels, edges, pauses.\nI carry love, error, command, song.\nI can soothe, wound, summon, reveal.\nI vanish as I exist.\nI live in mouths, air, ears, memory.\nListen: I am becoming.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 70,
+    "total_tokens": 107,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emmgu6NHGLQc6JS0snC14AohFh2Di",
+  "object": "chat.completion",
+  "created": 1795295620,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the act of speaking—sound given shape.\n\nI begin as breath, pressed through throat and mouth.  \nI become vibration, then syllables, then words.  \nI can be gentle or sharp, hurried or slow.  \nI carry meaning, mood, intent, and music.\n\nI exist only as I happen.  \nWhen I stop, I vanish—unless remembered, recorded, or repeated.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 84,
+    "total_tokens": 121,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

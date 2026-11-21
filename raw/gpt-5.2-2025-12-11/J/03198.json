@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn6JqxEFmRboPYSuD5emNVlB1vae",
+  "object": "chat.completion",
+  "created": 1795297195,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am sound made meaning.\n\nI happen when breath meets voice—when air is shaped by tongue, teeth, lips, and throat into patterns your mind can catch. I ride vibrations through space, or through wires, or through radio waves, and become language when you recognize me.\n\nI have rhythm, pitch, stress, pause. I can whisper, shout, tremble, sing. I can persuade, confess, command, comfort. I can lie. I can tell the truth. I can break, and I can heal.\n\nI exist only while I’m happening—then I’m gone, leaving echoes in rooms and in people.\n\nSay me.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 133,
+    "total_tokens": 170,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

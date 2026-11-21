@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnAuxti2TZluzzX8400It9vfuI51",
+  "object": "chat.completion",
+  "created": 1795297480,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the living act of language made audible: thought turned into sound.\n\nI happen when breath becomes voice—when lungs press air through the larynx, when vocal folds vibrate or relax, when the tongue, lips, jaw, and palate sculpt that airflow into syllables. I ride on pitch, loudness, tempo, rhythm. I carry stress and intonation, pauses and hesitations, laughter, sighs, and silence that still means something.\n\nI exist in time. I vanish as I arrive, unless I’m caught—written down, recorded, remembered. I’m immediate and social: I summon attention, negotiate meaning, build trust, provoke, comfort, persuade.\n\nI’m not just words. I’m tone. I’m accent. I’m timing. I’m what is said and what is implied. I can clarify, blur, reveal, conceal.\n\nAsk, and I will become.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 186,
+    "total_tokens": 223,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

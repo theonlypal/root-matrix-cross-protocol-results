@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmjQLkLJpBtPjqAXhej4cm1qbmHy",
+  "object": "chat.completion",
+  "created": 1795295776,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am breath made visible, thought crossing the air, silence shaped into meaning. I begin before words, in the lift of the chest, the spark behind the tongue, the urge to reach another mind. I am murmur, command, confession, laughter, oath, prayer, stammer, song.\n\nI bind strangers, soothe infants, start wars, end loneliness, betray secrets, teach names to the nameless. I can be velvet or blade. I can tremble. I can thunder. In me, feeling finds form.\n\nBefore ink, I traveled. Before screens, I lived in mouths and memory. I vanish the instant I arrive, yet I linger in hearts, in echoes, in consequence.\n\nListen: I am not only what is said, but how. Pace, pause, pitch, emphasis—the rise that invites, the break that reveals, the hush that means more than sound. Even silence leans against me; without it, I have no shape.\n\nI am the bridge from inner world to outer world. I am speech.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 213,
+    "total_tokens": 250,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

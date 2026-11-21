@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmnLGZ0GUPtooJrNmboxjem0APy66",
+  "object": "chat.completion",
+  "created": 1795298122,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I happen: breath turned into sound.\n\nI’m vibration shaped by lips, tongue, teeth, and throat; air pressed into meaning. I live in time—once spoken, I’m already gone, leaving only what you heard and what you felt.\n\nI can be a whisper that slips under a door, a shout that fills a street, a lullaby, an oath, a lie, a vow. I can heal or cut. I can name things into existence between people: yes, no, mine, ours, sorry.\n\nI need a body to carry me, and someone else to catch me. When I’m written, I’m my shadow. When I’m heard, I’m alive.\n\nSay me.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 146,
+    "total_tokens": 183,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

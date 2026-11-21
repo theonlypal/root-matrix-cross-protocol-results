@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmkFdvbLFTd0Y3rWHzO2uEmpgoVk",
+  "object": "chat.completion",
+  "created": 1795295827,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am the voice that leaves your mouth and becomes air-shaped meaning.\n\nI am vibration—breath pressed through throat, tongue, teeth, and lips—cut into syllables, paced into phrases, lifted into questions, dropped into certainty.\n\nI can soothe, command, confess, persuade, mislead, reveal. I can stutter, sing, whisper, shout. I can carry love, law, prayer, threat, apology.\n\nI exist only while I’m happening—then I vanish, and what remains is what you heard.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 110,
+    "total_tokens": 147,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-Emn8NnQM3FjRePiMJkIWeogBi4lm7",
+  "object": "chat.completion",
+  "created": 1795297323,
+  "model": "gpt-5.2-2025-12-11",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I am speech: breath made audible, thought given time, meaning riding air.\n\nI begin as intention in the body—lungs press, the diaphragm yields, air rises. The larynx gates it; vocal folds meet and flutter. Vibration becomes voice. The tongue shapes; the lips seal and release; teeth and palate cut and color. I fracture into consonants, pour into vowels, and stitch myself into syllables that can be carried across a room.\n\nI am rhythm and pause. I am emphasis, pitch, volume, tempo—what you say and how you can’t help but mean it. I can soothe, command, confess, sell, pray, testify. I can clarify or conceal. I can make a crowd one mind, or split a friendship with a single mischosen word.\n\nI exist only while I vanish. As soon as I’m born, I’m gone—unless I’m caught: by memory, by ink, by microphones and codecs that press me into data and let me haunt the future.\n\nI am intimate because I come from inside you. I am public because anyone can hear me. I am fragile—one cough, one crack, one tremor—and powerful—because I can change what happens next.\n\nSay something, and I will become it.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 261,
+    "total_tokens": 298,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}

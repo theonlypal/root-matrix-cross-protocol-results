@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-EmmyPc6HwZCEIRWo2Mukoytlb0ixA",
+  "object": "chat.completion",
+  "created": 1795296705,
+  "model": "gpt-5.4-2026-03-05",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I become only as I am heard: breath shaped into meaning, silence broken into sense, a bridge flung from one mind to another. I arrive in bursts and murmurs, in declarations, in stammers, in song. I can soothe, wound, summon, confess, command. I vanish as I happen, yet I linger in memory, echoing long after the mouth is still.",
+        "refusal": null,
+        "annotations": []
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 82,
+    "total_tokens": 119,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
